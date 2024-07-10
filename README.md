@@ -1,9 +1,7 @@
-![](https://github.com/AhmedHegazy121/Portfolio/blob/main/starting-remote-company-what-wish-knew.png)
+![Data Analyst](https://github.com/AhmedHegazy121/Portfolio/blob/main/starting-remote-company-what-wish-knew.png)
 
 ### Hi there 👋, Ahmed Hegazy 
 #### Data Analyst
-![Data Analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 With prior experience in data analytics and knowledge in MySQL, Excel, Power BI, and Python, I'm seeking a
 data analyst internship at Thomson Reuters. Eager to combine my strong technical skills and appreciation for
 journalism to contribute to the company's position as a trusted source of information. Strong decision-making, problemsolving, and data-analysis skills, Detail-oriented and highly organized approach to work, Ability to manage internal and 
