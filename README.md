@@ -1,4 +1,4 @@
-![Data Analyst][(https://github.com/AhmedHegazy121/Portfolio/blob/main/dataspot-intro-data-governant.jpg)
+![Data Analyst][(https://github.com/AhmedHegazy121/Portfolio/blob/main/starting-remote-company-what-wish-knew.png)
 
 ### Hi there 👋, Ahmed Hegazy 
 #### Data Analyst
