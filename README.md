@@ -8,11 +8,11 @@ journalism to contribute to the company's position as a trusted source of inform
 external stakeholders effectively and excellent communication skills with the ability to present complex data in a clear 
 and understandable manner.
 
-![Managed Attack Surface](https://github.com/AhmedHegazy121/Portfolio/blob/main/csiq-what-is-managed-attack-surface.png)
+![Managed Attack Surface](csiq-what-is-managed-attack-surface.png)
 
 # Projects
 
-## [Analyzing email marketing performance](https://www.linkedin.com/posts/hegazy-ahmed_marketing-mail-mailcamapign-activity-7184779199214219265-rVsn?utm_source=share&utm_medium=member_desktop)
+## [Analyzing email marketing performance](Email.PNG)
 
 **KPIs**
 
@@ -21,4 +21,4 @@ and understandable manner.
 - Bounce Rate: Bounce rate indicates the percentage of emails that were not successfully delivered to recipients' inboxes.
 - Time and Day of Sending: Analyzing the performance of your emails based on the time and day they were sent can help identify the optimal send times for your audience.
 
-![Email Marketing Performance](https://github.com/AhmedHegazy121/Portfolio/blob/main/Email.PNG)
+![Email Marketing Performance]()
