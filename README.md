@@ -1,4 +1,4 @@
-	![](https://github.com/AhmedHegazy121/Portfolio/blob/main/csiq-what-is-managed-attack-surface.png)
+![](https://github.com/AhmedHegazy121/Portfolio/blob/main/csiq-what-is-managed-attack-surface.png)
 ### Hi there 👋, Ahmed Hegazy 
 #### Data Analyst
 With prior experience in data analytics and knowledge in MySQL, Excel, Power BI, and Python, I'm seeking a
