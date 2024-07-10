@@ -1,4 +1,4 @@
-![](https://github.com/AhmedHegazy121/Portfolio/blob/main/dataspot-intro-data-governant.jpg)
+![](https://github.com/AhmedHegazy121/Portfolio/blob/main/bg-pic1.jpg)
 ### Hi there 👋, Ahmed Hegazy 
 #### Data Analyst
 With prior experience in data analytics and knowledge in MySQL, Excel, Power BI, and Python, I'm seeking a
