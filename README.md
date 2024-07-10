@@ -1,4 +1,4 @@
-![Data Analyst][(https://github.com/AhmedHegazy121/Portfolio/blob/main/csiq-what-is-managed-attack-surface.png)
+![Data Analyst][(https://github.com/AhmedHegazy121/Portfolio/blob/main/dataspot-intro-data-governant.jpg)
 
 ### Hi there 👋, Ahmed Hegazy 
 #### Data Analyst
