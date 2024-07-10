@@ -1,5 +1,6 @@
-# Hi there 👋, Ahmed Hegazy 
-#### Data Analyst
+![Managed Attack Surface](csiq-what-is-managed-attack-surface.png)
+# Hi there 👋, Ahmed Hegazy  
+# Data Analyst
 ### Skills: Python, R, SQL, Power BI, Excel, Tableau
 
 With prior experience in data analytics and knowledge in MySQL, Excel, Power BI, and Python, I'm seeking a
@@ -8,7 +9,6 @@ journalism to contribute to the company's position as a trusted source of inform
 external stakeholders effectively and excellent communication skills with the ability to present complex data in a clear 
 and understandable manner.
 
-![Managed Attack Surface](csiq-what-is-managed-attack-surface.png)
 
 # Projects
 
