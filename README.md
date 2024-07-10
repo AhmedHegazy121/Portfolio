@@ -1,6 +1,6 @@
 ![Managed Attack Surface](csiq-what-is-managed-attack-surface.png)
 # Hi there 👋, Ahmed Hegazy  
-# Data Analyst
+## Data Analyst
 ### Skills: Python, R, SQL, Power BI, Excel, Tableau
 
 With prior experience in data analytics and knowledge in MySQL, Excel, Power BI, and Python, I'm seeking a
