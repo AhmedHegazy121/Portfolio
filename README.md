@@ -12,7 +12,8 @@ and understandable manner.
 
 # Projects
 
-## [Analyzing email marketing performance](Email.PNG)
+## [Analyzing email marketing performance](https://www.linkedin.com/posts/hegazy-ahmed_marketing-mail-mailcamapign-activity-7184779199214219265-rVsn?utm_source=share&utm_medium=member_desktop)
+
 
 **KPIs**
 
@@ -21,4 +22,4 @@ and understandable manner.
 - Bounce Rate: Bounce rate indicates the percentage of emails that were not successfully delivered to recipients' inboxes.
 - Time and Day of Sending: Analyzing the performance of your emails based on the time and day they were sent can help identify the optimal send times for your audience.
 
-![Email Marketing Performance]()
+![Email Marketing Performance](Email.PNG)
