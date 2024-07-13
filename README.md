@@ -1,8 +1,11 @@
 ![Managed Attack Surface](csiq-what-is-managed-attack-surface.png)
 #                               Hi there 👋, Ahmed Hegazy  
 ##  Cairo | (002) 01090446023 | ahmed.a.hegazy21@gmail.com | [Linkedin](https://www.linkedin.com/in/hegazy-ahmed/)
-### Skills: Python, R, SQL, Power BI, Excel, Tableau
-
+### Skills: 
+| Programming:|  Python, R, SQL |
+|Data Visualization |Tableau, Power BI, Matplotlib, Seaborn|
+| Header | Title |
+| Paragraph | Text |
 With prior experience in data analytics and knowledge in MySQL, Excel, Power BI, and Python, I'm seeking a
 data analyst internship. Eager to combine my strong technical skills and appreciation for
 journalism to contribute to the company's position as a trusted source of information. Strong decision-making, problem-solving, and data-analysis skills, detail-oriented and highly organized approach to work, ability to manage internal and 
