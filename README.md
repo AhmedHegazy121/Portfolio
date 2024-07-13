@@ -9,8 +9,6 @@
 ▪ Database Management: MySQL, PostgreSQL 
 
 ▪ Statistical Analysis: Hypothesis Testing, Regression Analysis
-
- - Tools: Microsoft Excel, Jupyter Notebooks
  - Data Analysis
  -  Google Big Query
  -  Google Analytics G4
