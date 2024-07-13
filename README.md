@@ -2,17 +2,14 @@
 #                               Hi there 👋, Ahmed Hegazy  
 ##  Cairo | (002) 01090446023 | ahmed.a.hegazy21@gmail.com | [Linkedin](https://www.linkedin.com/in/hegazy-ahmed/)
 ### Skills: 
-▪ Programming: Python, R, SQL
-
-▪ Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
-
-▪ Database Management: MySQL, PostgreSQL 
-
-▪ Statistical Analysis: Hypothesis Testing, Regression Analysis
- - Data Analysis
- -  Google Big Query
- -  Google Analytics G4
-  -  icrosoft office (Word, PowerPoint, Outlook)
+- Programming: Python, R, SQL
+- Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
+- Database Management: MySQL, PostgreSQL 
+- Statistical Analysis: Hypothesis Testing, Regression Analysis
+- Data Analysis
+  ,Google Big Query
+  ,Google Analytics G4
+  ,icrosoft office (Word, PowerPoint, Outlook)
 
 With prior experience in data analytics and knowledge in MySQL, Excel, Power BI, and Python, I'm seeking a data analyst internship. Eager to combine my strong technical skills and appreciation for journalism to contribute to the company's position as a trusted source of information. Strong decision-making, problem-solving, and data-analysis skills, detail-oriented and highly organized approach to work, ability to manage internal and 
 external stakeholders effectively and excellent communication skills with the ability to present complex data in a clear 
