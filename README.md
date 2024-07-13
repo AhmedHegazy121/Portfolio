@@ -14,13 +14,22 @@
  -  Google Analytics G4
   -  icrosoft office (Word, PowerPoint, Outlook)
 
-With prior experience in data analytics and knowledge in MySQL, Excel, Power BI, and Python, I'm seeking a
-data analyst internship. Eager to combine my strong technical skills and appreciation for
-journalism to contribute to the company's position as a trusted source of information. Strong decision-making, problem-solving, and data-analysis skills, detail-oriented and highly organized approach to work, ability to manage internal and 
+With prior experience in data analytics and knowledge in MySQL, Excel, Power BI, and Python, I'm seeking a data analyst internship. Eager to combine my strong technical skills and appreciation for journalism to contribute to the company's position as a trusted source of information. Strong decision-making, problem-solving, and data-analysis skills, detail-oriented and highly organized approach to work, ability to manage internal and 
 external stakeholders effectively and excellent communication skills with the ability to present complex data in a clear 
 and understandable manner.
+# EDUCATION AND CERTIFICATIONS
 
+Nile Higher Institute Bachelor of Management Information 2016–2019
+ Cumulative Grade: Very Good
+ [• Google Data Analytics Professional Certificate (Coursera)
+](https://www.coursera.org/account/accomplishments/professional-cert/4F6K7SEA4KV2)
+• Introduction to Data Analytics (Coursera)
+• Data Analytics Bootcamp Certificate (YouTube)
+• Relevant coursework: Statistics, information Management
+• English course (Get Way level 9)
+• Introduction to SQL (SKILLUP)
 
+ 
 # Projects
 
 ## [Analyzing email marketing performance](https://www.linkedin.com/posts/hegazy-ahmed_marketing-mail-mailcamapign-activity-7184779199214219265-rVsn?utm_source=share&utm_medium=member_desktop)
