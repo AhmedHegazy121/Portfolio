@@ -17,7 +17,7 @@ and understandable manner.
 #  Education and Certifications
 
 Nile Higher Institute Bachelor of Management Information 2016–2019
- Cumulative Grade: Very Good
+ | Cumulative Grade: Very Good
 - [ Google Data Analytics Professional Certificate (Coursera)
 ](https://www.coursera.org/account/accomplishments/professional-cert/4F6K7SEA4KV2)
 - Introduction to Data Analytics (Coursera)
