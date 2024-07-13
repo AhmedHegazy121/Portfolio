@@ -7,14 +7,14 @@
 - Database Management: MySQL, PostgreSQL 
 - Statistical Analysis: Hypothesis Testing, Regression Analysis
 - Data Analysis
-  ,Google Big Query
-  ,Google Analytics G4
-  ,icrosoft office (Word, PowerPoint, Outlook)
-  
+   ,Google Big Query
+   ,Google Analytics G4
+   ,icrosoft office (Word, PowerPoint, Outlook)
+   
 With prior experience in data analytics and knowledge in MySQL, Excel, Power BI, and Python, I'm seeking a data analyst internship. Eager to combine my strong technical skills and appreciation for journalism to contribute to the company's position as a trusted source of information. Strong decision-making, problem-solving, and data-analysis skills, detail-oriented and highly organized approach to work, ability to manage internal and 
 external stakeholders effectively and excellent communication skills with the ability to present complex data in a clear 
 and understandable manner.
-# EDUCATION AND CERTIFICATIONS
+#  Education and Certifications
 
 Nile Higher Institute Bachelor of Management Information 2016–2019
  Cumulative Grade: Very Good
