@@ -21,13 +21,13 @@ and understandable manner.
 
 Nile Higher Institute Bachelor of Management Information 2016–2019
  Cumulative Grade: Very Good
- [• Google Data Analytics Professional Certificate (Coursera)
+ [- Google Data Analytics Professional Certificate (Coursera)
 ](https://www.coursera.org/account/accomplishments/professional-cert/4F6K7SEA4KV2)
-• Introduction to Data Analytics (Coursera)
-• Data Analytics Bootcamp Certificate (YouTube)
-• Relevant coursework: Statistics, information Management
-• English course (Get Way level 9)
-• Introduction to SQL (SKILLUP)
+- Introduction to Data Analytics (Coursera)
+- Data Analytics Bootcamp Certificate (YouTube)
+- Relevant coursework: Statistics, information Management
+- English course (Get Way level 9)
+- Introduction to SQL (SKILLUP)
 
  
 # Projects
