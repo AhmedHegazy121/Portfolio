@@ -29,7 +29,7 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
  
 # Projects
 
-## [Analyzing Business Insights for Bike Store](## [Analyzing email marketing performance](https://www.linkedin.com/posts/hegazy-ahmed_marketing-mail-mailcamapign-activity-7184779199214219265-rVsn?utm_source=share&utm_medium=member_desktop))
+## [Analyzing Business Insights for Bike Storee](https://www.linkedin.com/posts/hegazy-ahmed_marketing-mail-mailcamapign-activity-7184779199214219265-rVsn?utm_source=share&utm_medium=member_desktop))
 In reviewing our recent financial performance, several key insights have emerged that shape our strategic recommendations for the future:
 
 - Understanding Revenue Trends:
@@ -40,7 +40,7 @@ April 2018 stood out with $900,000 in revenue, comprising 44.5% of our annual to
 
 - Brand and Product Performance:
 Marcelene Boyer emerged as our top-performing brand, while Mountain Bikes dominated sales with $3,030,776 in revenue. Cruisers Bicycles, with 1,378 orders totaling $1,109,151, showcased strong customer demand.
-![Analyzing Business Insights for Bike Storee](Email.PNG)
+![Analyzing Business Insights for Bike Storee](Line chart.PNG)
 
 ## [Analyzing email marketing performance](https://www.linkedin.com/posts/hegazy-ahmed_marketing-mail-mailcamapign-activity-7184779199214219265-rVsn?utm_source=share&utm_medium=member_desktop)
 
