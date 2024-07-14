@@ -41,7 +41,7 @@ April 2018 stood out with $900,000 in revenue, comprising 44.5% of our annual to
 - Brand and Product Performance:
 Marcelene Boyer emerged as our top-performing brand, while Mountain Bikes dominated sales with $3,030,776 in revenue. Cruisers Bicycles, with 1,378 orders totaling $1,109,151, showcased strong customer demand.
 
-  ![](Line chart.PNG)
+![Managed Attack Surface](Captureline.PNG)
 
 ## [Analyzing email marketing performance](https://www.linkedin.com/posts/hegazy-ahmed_marketing-mail-mailcamapign-activity-7184779199214219265-rVsn?utm_source=share&utm_medium=member_desktop)
 
