@@ -29,7 +29,8 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
  
 # Projects
 
-## [Analyzing Business Insights for Bike Storee](https://www.linkedin.com/feed/update/urn:li:activity:7218037173088886784/) [Link to Completed Report](https://www.linkedin.com/feed/update/urn:li:activity:7218037173088886784/)
+## [Analyzing Business Insights for Bike Storee](https://www.linkedin.com/feed/update/urn:li:activity:7218037173088886784/)
+### [Link to Completed Report](https://www.linkedin.com/feed/update/urn:li:activity:7218037173088886784/)
 In reviewing our recent financial performance, several key insights have emerged that shape our strategic recommendations for the future:
 
 - Understanding Revenue Trends:
