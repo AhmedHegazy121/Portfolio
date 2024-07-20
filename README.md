@@ -72,7 +72,7 @@ Data Analysis: Used various statistical methods to get valuable insights from th
   
   ![HR Attrition dashboard using Excel](HR.PNG)
   
- ## [Exploratory Data Analysis Using SQL and Tableau](https://www.linkedin.com/posts/hegazy-ahmed_sql-dataanalytics-analytics-activity-7117474754231439360-sO0T?utm_source=share&utm_medium=member_desktop)
+  ## [Exploratory Data Analysis Using SQL and Tableau](https://www.linkedin.com/posts/hegazy-ahmed_sql-dataanalytics-analytics-activity-7117474754231439360-sO0T?utm_source=share&utm_medium=member_desktop)
   
   **[Link to Project](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/breaking%20_down%20_%20bteween_%20Female_%20and_%20Male.sql)**
   
