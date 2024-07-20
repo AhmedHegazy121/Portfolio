@@ -29,7 +29,7 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
  
 # Projects
 
-## [Analyzing Business Insights for Bike Storee](https://www.linkedin.com/feed/update/urn:li:activity:7218037173088886784/)
+## [Analyzing Business Insights for Bike Storee](https://www.linkedin.com/feed/update/urn:li:activity:7218037173088886784/) [Link to Completed Report](https://www.linkedin.com/feed/update/urn:li:activity:7218037173088886784/)
 In reviewing our recent financial performance, several key insights have emerged that shape our strategic recommendations for the future:
 
 - Understanding Revenue Trends:
@@ -47,6 +47,7 @@ Marcelene Boyer emerged as our top-performing brand, while Mountain Bikes domina
 - Data Cleaning: In this step includes removing inconsistencies in data, errors, and duplicates and ensuring that the data with which I worked is accurate and reliable for further analysis.
 - Data Processing: using Power Query Editor to Create some new columns that involved organizing, sorting, and filtering the data to extract meaningful insights.
 Data Analysis: Used various statistical methods to get valuable insights from the data.
+
 **KPIs**
 -	What is the total number of employees and the attrition rate within the organization?
 -	How many high-performing employees have left compared to low-performing employees?
@@ -57,6 +58,7 @@ Data Analysis: Used various statistical methods to get valuable insights from th
 -	 What are the attrition rates by gender?
 -	Which departments have the highest attrition rates?
 -	Which age group experiences the highest attrition, and what is the average age of employees leaving the organization?
+  
   ![HR Attrition dashboard using Excel](HR.PNG)
 
 ## [Analyzing email marketing performance](https://www.linkedin.com/posts/hegazy-ahmed_marketing-mail-mailcamapign-activity-7184779199214219265-rVsn?utm_source=share&utm_medium=member_desktop)
