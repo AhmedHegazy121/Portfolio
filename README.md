@@ -91,6 +91,8 @@ Outcome: Provided valuable insights into gender distribution, departmental trend
 
 ## [Analyzing email marketing performance](https://www.linkedin.com/posts/hegazy-ahmed_marketing-mail-mailcamapign-activity-7184779199214219265-rVsn?utm_source=share&utm_medium=member_desktop)
 
+ **[Link to Poject](https://www.linkedin.com/posts/hegazy-ahmed_marketing-mail-mailcamapign-activity-7184779199214219265-rVsn?utm_source=share&utm_medium=member_desktop)**
+
 **KPIs**
 
 - Open Rate: This metric measures the percentage of recipients who opened your email.
