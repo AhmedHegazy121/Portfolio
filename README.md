@@ -1,6 +1,7 @@
 #                           Ahmed Hegazy   Data AnalysT
 ![Managed Attack Surface](csiq-what-is-managed-attack-surface.png)
-### about
+##  Cairo  |   (002) 01090446023   |   ahmed.a.hegazy21@gmail.com   |   [Linkedin](https://www.linkedin.com/in/hegazy-ahmed/)
+### About
 I am an aspiring data analyst with a strong background in data analytics and proficiency in SQL server, Excel, Power BI, 
 Tableau, and Python. I am seeking a data analyst internship where I can leverage my technical skills and passion for 
 Analysis and problem solving to support the company's role as a trusted source of information.
@@ -8,7 +9,6 @@ I possess strong decision-making and problem-solving abilities, with a keen eye 
 to work. I am adept at managing relationships with both internal and external stakeholders and have excellent 
 communication skills, enabling me to present complex data in a clear and comprehensible manner.
 
-##  Cairo  |   (002) 01090446023   |   ahmed.a.hegazy21@gmail.com   |   [Linkedin](https://www.linkedin.com/in/hegazy-ahmed/)
 ### Skills: 
 - Programming: Python, R, SQL
 - Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
