@@ -47,6 +47,9 @@ Marcelene Boyer emerged as our top-performing brand, while Mountain Bikes domina
 ![Managed Attack Surface](Captureline.PNG)
 
 ## [HR Attrition dashboard using Excel](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-this-hr-attrition-activity-7121396252549758976-5rpk?utm_source=share&utm_medium=member_desktop)
+
+  **[Link to Project](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-this-hr-attrition-activity-7121396252549758976-5rpk?utm_source=share&utm_medium=member_desktop)**
+  
 - Data Cleaning: In this step includes removing inconsistencies in data, errors, and duplicates and ensuring that the data with which I worked is accurate and reliable for further analysis.
 - Data Processing: using Power Query Editor to Create some new columns that involved organizing, sorting, and filtering the data to extract meaningful insights.
 Data Analysis: Used various statistical methods to get valuable insights from the data.
