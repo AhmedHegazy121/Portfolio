@@ -11,9 +11,12 @@
    ,Google Analytics G4
    ,icrosoft office (Word, PowerPoint, Outlook)
    
-With prior experience in data analytics and knowledge in MySQL, Excel, Power BI, and Python, I'm seeking a data analyst internship. Eager to combine my strong technical skills and appreciation for journalism to contribute to the company's position as a trusted source of information. Strong decision-making, problem-solving, and data-analysis skills, detail-oriented and highly organized approach to work, ability to manage internal and 
-external stakeholders effectively and excellent communication skills with the ability to present complex data in a clear 
-and understandable manner.
+I am an aspiring data analyst with a strong background in data analytics and proficiency in SQL server, Excel, Power BI, 
+Tableau, and Python. I am seeking a data analyst internship where I can leverage my technical skills and passion for 
+Analysis and problem solving to support the company's role as a trusted source of information.
+I possess strong decision-making and problem-solving abilities, with a keen eye for detail and a highly organized approach 
+to work. I am adept at managing relationships with both internal and external stakeholders and have excellent 
+communication skills, enabling me to present complex data in a clear and comprehensible manner.
 #  Education and Certifications
 
 Nile Higher Institute Bachelor of Management Information 2016–2019
