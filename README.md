@@ -43,7 +43,24 @@ Marcelene Boyer emerged as our top-performing brand, while Mountain Bikes domina
 
 ![Managed Attack Surface](Captureline.PNG)
 
+## [HR Attrition dashboard using Excel](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-this-hr-attrition-activity-7121396252549758976-5rpk?utm_source=share&utm_medium=member_desktop)
+
+
 ## [Analyzing email marketing performance](https://www.linkedin.com/posts/hegazy-ahmed_marketing-mail-mailcamapign-activity-7184779199214219265-rVsn?utm_source=share&utm_medium=member_desktop)
+- Data Cleaning: In this step includes removing inconsistencies in data, errors, and duplicates and ensuring that the data with which I worked is accurate and reliable for further analysis.
+- Data Processing: using Power Query Editor to Create some new columns that involved organizing, sorting, and filtering the data to extract meaningful insights.
+Data Analysis: Used various statistical methods to get valuable insights from the data.
+**KPIs**
+-	What is the total number of employees and the attrition rate within the organization?
+-	How many high-performing employees have left compared to low-performing employees?
+-	What is the attrition rate based on employees' work distance from the office?
+-	Which job roles experience the highest levels of attrition?
+-	How does attrition vary by employee education levels?
+-	What is the attrition rate among employees who frequently travel for business?
+-	 What are the attrition rates by gender?
+-	Which departments have the highest attrition rates?
+-	Which age group experiences the highest attrition, and what is the average age of employees leaving the organization?
+  ![Email Marketing Performance](Email.PNG)
 
 
 **KPIs**
