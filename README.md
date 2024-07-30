@@ -65,7 +65,25 @@ Top 10 Customers By Profit
  – Show additional information like rank, number of orders, current sales, current profit and the last order date.
 
 ![Sales Performance Dashboard](Sales.PNG)
+## [Cleaning Data use Python](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Clean_Cricketers.ipynb)
+### [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Clean_Cricketers.ipynb)
+**Here's an explanation of the steps taken in your code:**
 
+Reading the CSV File: The code reads a CSV file named New.csv into a pandas DataFrame named df, which contains data about cricket players and their performance statistics.
+
+Renaming Columns: Several columns are renamed to more descriptive names, such as "Mat" to "matches_played", "Inns" to "innings_batted", "NO" to "not_outs", etc., for better readability and understanding of the data.
+
+Checking for Null Values: The code checks for any null values in the DataFrame and finds that several columns contain null values.
+
+Handling Missing Values: Specifically, the code identifies that the "balls_faced" and "batting_strike_rate" columns contain null values for some players. It fills these null values with 0 to handle missing data appropriately.
+
+Dropping Duplicate Rows: The code identifies and drops duplicate rows in the DataFrame to ensure that each player is represented only once in the dataset.
+
+Splitting the Span Column: The "Span" column, which contains the years a player was active, is split into two separate columns, "Rooki_year" and "final_year", representing the start and end years of the player's career.
+
+Dropping Unnecessary Columns: The original "Span" column is dropped from the DataFrame as it has been replaced by the new "Rooki_year" and "final_year" columns.
+
+Dropping a Specific Row: Finally, the code drops a row with index 67, which contains NaN values in all columns, to clean up the DataFrame further and ensure no irrelevant data remains.
 
 ## [Analyzing Business Insights for Bike Storee](https://www.linkedin.com/feed/update/urn:li:activity:7218037173088886784/)
 
