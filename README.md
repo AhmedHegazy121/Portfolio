@@ -104,6 +104,7 @@ Top 10 Customers By Profit
 
 
 
+
 ## [Case Study: How Does a Bike-Share Navigate Speedy Success](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Share%20_Bike.ipynb)
 ### [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Share%20_Bike.ipynb)
  **brief summary of your cleaned dataframe bike:**
@@ -118,8 +119,10 @@ Top 10 Customers By Profit
 - Export a summary file for further analysis.
 
 
+
 ## [Cleaning Data use Python](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Clean_Cricketers.ipynb)
 ### [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Clean_Cricketers.ipynb)
+
 **Here's an explanation of the steps taken in your code:**
 
 Reading the CSV File: The code reads a CSV file named New.csv into a pandas DataFrame named df, which contains data about cricket players and their performance statistics.
@@ -138,6 +141,13 @@ Dropping Unnecessary Columns: The original "Span" column is dropped from the Dat
 
 Dropping a Specific Row: Finally, the code drops a row with index 67, which contains NaN values in all columns, to clean up the DataFrame further and ensure no irrelevant data remains.
 
+
+
+## [The CoinMarketCap API](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/API.ipynb)
+### [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/API.ipynb)
+Here is a refined and complete version of the code to fetch the latest cryptocurrency listings from the CoinMarketCap API. Make sure to handle the API key securely.
+The script fetches the latest cryptocurrency listings from the CoinMarketCap API. It sets up a session with the necessary headers, including the API key, and sends a GET request to the API endpoint with specified parameters.
+The response is parsed as JSON and printed in a readable format. Errors such as connection issues, timeouts, and too many redirects are handled gracefully.
 
 
 
