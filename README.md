@@ -104,8 +104,8 @@ Top 10 Customers By Profit
 
 
 
-## [Case Study: How Does a Bike-Share Navigate Speedy Success]()
-
+## [Case Study: How Does a Bike-Share Navigate Speedy Success](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Share%20_Bike.ipynb)
+### [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Share%20_Bike.ipynb)
  **brief summary of your cleaned dataframe bike:**
 - Loaded Data: You've successfully loaded 12 CSV files for each month of 2023.
 - Merged Data: Merged these files into a single dataframe.
