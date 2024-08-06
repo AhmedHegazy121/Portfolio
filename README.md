@@ -33,6 +33,26 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 
  
 # Projects
+
+
+# Tableau
+
+## [Case Study: How Does a Bike-Share Navigate Speedy Success Dashboard](https://public.tableau.com/views/CaseStudyHowDoesaBike-ShareNavigateSpeedySuccess_17228246429470/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+How do annual members and casual riders use Cyclistic bikes differently?
+
+***To answer these questions, we will delve into the following topics:**
+
+- Duration and frequency of rides: We will analyze data to understand the typical length of rides for both user groups. Are there noticeable differences between casual riders and members? Are members using the bikes more frequently or for longer duration?
+
+- Ride timings: We’ll investigate if there’s a difference in the time of day, day of the week, or month of the year when the two user groups typically use the bikes.
+
+- Bike preferences: Given that Cyclistic offers various bike options, we will examine if there’s a pattern in the type of bike preferred by the two user groups.
+
+Answering these questions will provide insights into the riding patterns of the two groups (annual member and casual renters), and will be instrumental in forming the foundation for a marketing strategy aimed at converting casual riders into annual members. The strategy will be developed in alignment with these insights, addressing the unique needs and behaviors of casual riders to motivate their transition to becoming annual members.
+
+Cyclistic’s collected data forms the backbone of this analysis. For transparency, we have included the source code in the paper’s Appendix. We strive to communicate our findings clearly, pairing concise language with comprehensible visualizations and straightforward recommendations.
+![Sales Performance Dashboard](Share_Bike.png)
+
 ## [Sales Performance Dashboard](https://www.linkedin.com/posts/hegazy-ahmed_sales-dashboard-activity-7222760336511107072-B8-r?utm_source=share&utm_medium=member_desktop)
 ### [Video](https://www.linkedin.com/posts/hegazy-ahmed_dataanalysis-tableau-salesdashboard-activity-7220992076723720193-jkez?utm_source=share&utm_medium=member_desktop) | [persentation](https://www.linkedin.com/posts/hegazy-ahmed_sales-dashboard-activity-7222760336511107072-B8-r?utm_source=share&utm_medium=member_desktop) 
 The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
