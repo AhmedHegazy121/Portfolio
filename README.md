@@ -32,12 +32,13 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 - Introduction to SQL (SKILLUP)
 
  
-# Projects
-
 
 # Tableau
 
+
 ## [Case Study: How Does a Bike-Share Navigate Speedy Success Dashboard](https://public.tableau.com/views/CaseStudyHowDoesaBike-ShareNavigateSpeedySuccess_17228246429470/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### [Link](https://public.tableau.com/views/CaseStudyHowDoesaBike-ShareNavigateSpeedySuccess_17228246429470/Dashboard1?:showVizHome=no)
+
 How do annual members and casual riders use Cyclistic bikes differently?
 
 ***To answer these questions, we will delve into the following topics:**
@@ -51,7 +52,10 @@ How do annual members and casual riders use Cyclistic bikes differently?
 Answering these questions will provide insights into the riding patterns of the two groups (annual member and casual renters), and will be instrumental in forming the foundation for a marketing strategy aimed at converting casual riders into annual members. The strategy will be developed in alignment with these insights, addressing the unique needs and behaviors of casual riders to motivate their transition to becoming annual members.
 
 Cyclistic’s collected data forms the backbone of this analysis. For transparency, we have included the source code in the paper’s Appendix. We strive to communicate our findings clearly, pairing concise language with comprehensible visualizations and straightforward recommendations.
+
+
 ![Sales Performance Dashboard](Share_Bike.png)
+
 
 ## [Sales Performance Dashboard](https://www.linkedin.com/posts/hegazy-ahmed_sales-dashboard-activity-7222760336511107072-B8-r?utm_source=share&utm_medium=member_desktop)
 ### [Video](https://www.linkedin.com/posts/hegazy-ahmed_dataanalysis-tableau-salesdashboard-activity-7220992076723720193-jkez?utm_source=share&utm_medium=member_desktop) | [persentation](https://www.linkedin.com/posts/hegazy-ahmed_sales-dashboard-activity-7222760336511107072-B8-r?utm_source=share&utm_medium=member_desktop) 
