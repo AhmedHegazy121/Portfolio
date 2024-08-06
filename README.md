@@ -233,7 +233,16 @@ Marcelene Boyer emerged as our top-performing brand, while Mountain Bikes domina
 
 ![Managed Attack Surface](Captureline.PNG)
 
+## [Sales performce](https://www.linkedin.com/posts/hegazy-ahmed_excel-dataanalyst-datavisualization-activity-7116746036001275904-J6TA?utm_source=share&utm_medium=member_desktop)
+### [Link](https://www.linkedin.com/posts/hegazy-ahmed_excel-dataanalyst-datavisualization-activity-7116746036001275904-J6TA?utm_source=share&utm_medium=member_desktop)
 
+the company earned a total of 15,990,000,000 EGP in 2023. Top consultants by sales revenue include Mohmed, Rony, Hany, Dary, and Kisho, with Mohmed leading at 1,727,000,000 EGP. Monthly earnings peaked at 3.8 billion EGP and fluctuated throughout the year, rising notably towards the end.
+Of the 926 total paid calls, they accounted for 75% of all calls, with an average duration of 3 minutes and 55 seconds. Advertising expenditure totaled 16 billion EGP, with Television Ads and Facebook being the largest channels. The top sales teams were Mohammed and Salah, each with over 5 billion EGP in sales.
+KJL.L4 generated the highest fees among training levels at 3.3 billion EGP. BE and GK training models had the highest consultant fees. There was an average of 195 calls per month and 2,643 courses enrolled.
+Advertisement performance varied, showing peaks in certain months, and area code performance was diverse across different regions.
+
+
+![Sales](sales.jpg)
 
 ## [HR Attrition dashboard using Excel](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-this-hr-attrition-activity-7121396252549758976-5rpk?utm_source=share&utm_medium=member_desktop)
 
