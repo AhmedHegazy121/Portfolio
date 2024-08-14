@@ -182,6 +182,23 @@ Technologies Used: SQL, Stored Procedures
 Outcome: Provided valuable insights into gender distribution, departmental trends, and salary equity, aiding HR in informed decision-making.
 
 
+## This SQL script focuses on generating key insights and KPIs for a food delivery system
+ **[Link to Project](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Food.sql)**
+- Create Datasets 
+- This SQL script focuses on generating key insights and KPIs for a food delivery system:
+- Total Rolls Ordered: A total count of all rolls ordered is calculated, providing insight into overall demand.
+- Unique Customers: The number of unique customers is identified, highlighting the customer base size.
+- Driver Performance: The script calculates the number of successful orders delivered by each driver, excluding cancellations. This serves as a KPI for driver efficiency.
+- Roll Type Popularity: It tracks the number of each type of roll (vegetarian vs. non-vegetarian) delivered, offering insights into customer preferences.
+- Order Volume per Customer: The analysis includes how many rolls each customer ordered, segmented by roll type, which is key for understanding customer behavior.
+- Max Rolls in a Single Order: The script identifies the maximum number of rolls delivered in a single order, a KPI that may indicate peak order sizes.
+- Data Quality and Cleaning: The script accounts for null, NaN, and whitespace in the dataset, ensuring clean data before analysis.
+- Database and Table Creation: It sets up the necessary tables (driver, ingredients, rolls, etc.) and populates them with sample data to support the analysis.
+- Order Success Rate: By filtering out canceled orders, the script provides a clear view of successful deliveries, which is critical for assessing overall service reliability.
+- Customer Preferences and Customization: Analyzes data on items not included or extra items requested in orders, offering insights into customer preferences for roll customization.
+
+
+
 
 
 # PowerBI
