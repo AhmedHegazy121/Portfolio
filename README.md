@@ -96,8 +96,25 @@ Top 10 Customers By Profit
 
 
 
+## Break Down between Female and Male Dashboard
+**Key Responsibilities:**
 
+-Employee Gender Breakdown (1990-Present):
 
+-Analyzed employee distribution by gender over the years using SQL.
+Departmental Gender Comparison:
+
+-Compared male and female employee distribution across departments over time.
+Average Salary Analysis by Gender:
+
+-Calculated and compared average salaries of male and female employees by department.
+Salary Range Analysis (50,000 - 90,000):
+
+-Developed a stored procedure to analyze average salaries within a specified range by gender and department.
+Technologies Used: SQL, Stored Procedures
+
+Outcome: Provided valuable insights into gender distribution, departmental trends, and salary equity, aiding HR in informed decision-making.
+![photo](F_M.png)
 
 # Python
 
