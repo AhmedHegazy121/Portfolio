@@ -114,6 +114,8 @@ Salary Range Analysis (50,000 - 90,000):
 Technologies Used: SQL, Stored Procedures
 
 Outcome: Provided valuable insights into gender distribution, departmental trends, and salary equity, aiding HR in informed decision-making.
+
+
 ![photo](F_M.png)
 
 # Python
