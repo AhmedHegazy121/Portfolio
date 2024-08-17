@@ -97,7 +97,7 @@ Top 10 Customers By Profit
 
 
 
-## Break Down between Female and Male Dashboard  **[Link to VIZ ](https://public.tableau.com/app/profile/ahmed.hegazy/viz/BreakdownbetweenMandF/Dashboard1)**
+### Break Down between Female and Male Dashboard  **[Link to VIZ ](https://public.tableau.com/app/profile/ahmed.hegazy/viz/BreakdownbetweenMandF/Dashboard1)**
 **Key Responsibilities:**
 
 -Employee Gender Breakdown (1990-Present):
@@ -125,8 +125,8 @@ Outcome: Provided valuable insights into gender distribution, departmental trend
 
 
 
-## [Case Study: How Does a Bike-Share Navigate Speedy Success](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Share%20_Bike.ipynb)
-### [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Share%20_Bike.ipynb)
+### [Case Study: How Does a Bike-Share Navigate Speedy Success](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Share%20_Bike.ipynb)  |  [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Share%20_Bike.ipynb)
+
  **brief summary of your cleaned dataframe bike:**
 - Loaded Data: You've successfully loaded 12 CSV files for each month of 2023.
 - Merged Data: Merged these files into a single dataframe.
@@ -140,8 +140,7 @@ Outcome: Provided valuable insights into gender distribution, departmental trend
 
 
 
-## [Cleaning Data use Python](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Clean_Cricketers.ipynb)
-### [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Clean_Cricketers.ipynb)
+### [Cleaning Data use Python](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Clean_Cricketers.ipynb) |  [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Clean_Cricketers.ipynb)
 
 **Here's an explanation of the steps taken in your code:**
 
@@ -163,8 +162,8 @@ Dropping a Specific Row: Finally, the code drops a row with index 67, which cont
 
 
 
-## [The CoinMarketCap API](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/API.ipynb)
-### [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/API.ipynb)
+### [The CoinMarketCap API](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/API.ipynb) | [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/API.ipynb)
+
 Here is a refined and complete version of the code to fetch the latest cryptocurrency listings from the CoinMarketCap API. Make sure to handle the API key securely.
 The script fetches the latest cryptocurrency listings from the CoinMarketCap API. It sets up a session with the necessary headers, including the API key, and sends a GET request to the API endpoint with specified parameters.
 The response is parsed as JSON and printed in a readable format. Errors such as connection issues, timeouts, and too many redirects are handled gracefully.
@@ -176,9 +175,8 @@ The response is parsed as JSON and printed in a readable format. Errors such as 
 
 
 
-## Exploratory Data Analysis Using SQL and Tableau
+### [Exploratory Data Analysis Using SQL and Tableau](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/breaking%20_down%20_%20bteween_%20Female_%20and_%20Male.sql) | [Link ](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/breaking%20_down%20_%20bteween_%20Female_%20and_%20Male.sql) | [Link to VIZ ](https://public.tableau.com/app/profile/ahmed.hegazy/viz/BreakdownbetweenMandF/Dashboard1)
   
-  **[Link to Project](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/breaking%20_down%20_%20bteween_%20Female_%20and_%20Male.sql)** | **[Link to VIZ ](https://public.tableau.com/app/profile/ahmed.hegazy/viz/BreakdownbetweenMandF/Dashboard1)**
   
    **KPIs**
    Objective: Analyze employee demographics and salary data to provide insights into gender distribution, departmental employment trends, and salary comparisons.
@@ -202,8 +200,8 @@ Technologies Used: SQL, Stored Procedures
 Outcome: Provided valuable insights into gender distribution, departmental trends, and salary equity, aiding HR in informed decision-making.
 
 
-## This SQL script focuses on generating key insights and KPIs for a food delivery system
- **[Link to Project](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Food.sql)**
+### [This SQL script focuses on generating key insights and KPIs for a food delivery system ](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Food.sql) | [Link to Project](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Food.sql)
+ 
 - Create Datasets 
 - This SQL script focuses on generating key insights and KPIs for a food delivery system:
 - Total Rolls Ordered: A total count of all rolls ordered is calculated, providing insight into overall demand.
@@ -224,8 +222,7 @@ Outcome: Provided valuable insights into gender distribution, departmental trend
 # PowerBI
 
 
-## [Fleet Management Dashboard](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-fleet-management-activity-7138771849252958210-OGlD?utm_source=share&utm_medium=member_desktop)
-### [Link](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-fleet-management-activity-7138771849252958210-OGlD?utm_source=share&utm_medium=member_desktop)
+### [Fleet Management Dashboard](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-fleet-management-activity-7138771849252958210-OGlD?utm_source=share&utm_medium=member_desktop) | [Link](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-fleet-management-activity-7138771849252958210-OGlD?utm_source=share&utm_medium=member_desktop)
 
 
 To improve customer retention, focus on several key strategies. Implement loyalty programs and personalized communication to encourage repeat purchases. 
@@ -243,9 +240,8 @@ By focusing on these strategies, the business can build a loyal customer base an
 ![Fleet Management Dashboard](Feet_mangment.PNG)
 
 
-## [Analyzing email marketing performance](https://www.linkedin.com/posts/hegazy-ahmed_marketing-mail-mailcamapign-activity-7184779199214219265-rVsn?utm_source=share&utm_medium=member_desktop)
+### [Analyzing email marketing performance](https://www.linkedin.com/posts/hegazy-ahmed_marketing-mail-mailcamapign-activity-7184779199214219265-rVsn?utm_source=share&utm_medium=member_desktop) | [Link](https://www.linkedin.com/posts/hegazy-ahmed_marketing-mail-mailcamapign-activity-7184779199214219265-rVsn?utm_source=share&utm_medium=member_desktop)
 
- **[Link to Poject](https://www.linkedin.com/posts/hegazy-ahmed_marketing-mail-mailcamapign-activity-7184779199214219265-rVsn?utm_source=share&utm_medium=member_desktop)**
 
 **KPIs**
 
@@ -263,9 +259,8 @@ By focusing on these strategies, the business can build a loyal customer base an
 
 
 
-## [Analyzing Business Insights for Bike Storee](https://www.linkedin.com/feed/update/urn:li:activity:7218037173088886784/)
+### [Analyzing Business Insights for Bike Storee](https://www.linkedin.com/feed/update/urn:li:activity:7218037173088886784/) | [Link](https://www.linkedin.com/feed/update/urn:li:activity:7218037173088886784/)
 
-**[Link to Completed Report](https://www.linkedin.com/feed/update/urn:li:activity:7218037173088886784/)**
 
 In reviewing our recent financial performance, several key insights have emerged that shape our strategic recommendations for the future:
 
@@ -291,10 +286,9 @@ Advertisement performance varied, showing peaks in certain months, and area code
 
 ![Sales](sales.jpg)
 
-## [HR Attrition dashboard using Excel](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-this-hr-attrition-activity-7121396252549758976-5rpk?utm_source=share&utm_medium=member_desktop)
+### [HR Attrition dashboard using Excel](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-this-hr-attrition-activity-7121396252549758976-5rpk?utm_source=share&utm_medium=member_desktop) | [Link to Project](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-this-hr-attrition-activity-7121396252549758976-5rpk?utm_source=share&utm_medium=member_desktop)
 
-  **[Link to Project](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-this-hr-attrition-activity-7121396252549758976-5rpk?utm_source=share&utm_medium=member_desktop)**
-  
+
 - Data Cleaning: In this step includes removing inconsistencies in data, errors, and duplicates and ensuring that the data with which I worked is accurate and reliable for further analysis.
 - Data Processing: using Power Query Editor to Create some new columns that involved organizing, sorting, and filtering the data to extract meaningful insights.
 Data Analysis: Used various statistical methods to get valuable insights from the data.
