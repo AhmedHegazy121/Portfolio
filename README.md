@@ -97,7 +97,7 @@ Top 10 Customers By Profit
 
 
 
-### Break Down between Female and Male Dashboard  **[Link to VIZ ](https://public.tableau.com/app/profile/ahmed.hegazy/viz/BreakdownbetweenMandF/Dashboard1)**
+###  [Break Down between Female and Male Dashboard ](https://public.tableau.com/app/profile/ahmed.hegazy/viz/BreakdownbetweenMandF/Dashboard1) | **[Link to VIZ ](https://public.tableau.com/app/profile/ahmed.hegazy/viz/BreakdownbetweenMandF/Dashboard1)**
 **Key Responsibilities:**
 
 -Employee Gender Breakdown (1990-Present):
@@ -118,6 +118,8 @@ Outcome: Provided valuable insights into gender distribution, departmental trend
 
 
 ![photo](F_M.png)
+
+
 
 # Python
 
