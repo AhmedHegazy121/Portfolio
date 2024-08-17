@@ -38,6 +38,7 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 
 
 
+
 ### [Case Study: How Does a Bike-Share Navigate Speedy Success Dashboard](https://public.tableau.com/views/CaseStudyHowDoesaBike-ShareNavigateSpeedySuccess_17228246429470/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  | [Link](https://public.tableau.com/views/CaseStudyHowDoesaBike-ShareNavigateSpeedySuccess_17228246429470/Dashboard1?:showVizHome=no)
 
 
@@ -224,6 +225,7 @@ Outcome: Provided valuable insights into gender distribution, departmental trend
 # PowerBI
 
 
+
 ### [Fleet Management Dashboard](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-fleet-management-activity-7138771849252958210-OGlD?utm_source=share&utm_medium=member_desktop) | [Link](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-fleet-management-activity-7138771849252958210-OGlD?utm_source=share&utm_medium=member_desktop)
 
 
@@ -261,6 +263,7 @@ By focusing on these strategies, the business can build a loyal customer base an
 
 
 
+
 ### [Analyzing Business Insights for Bike Storee](https://www.linkedin.com/feed/update/urn:li:activity:7218037173088886784/) | [Link](https://www.linkedin.com/feed/update/urn:li:activity:7218037173088886784/)
 
 
@@ -277,8 +280,7 @@ Marcelene Boyer emerged as our top-performing brand, while Mountain Bikes domina
 
 ![Managed Attack Surface](Captureline.PNG)
 
-## [Sales performce](https://www.linkedin.com/posts/hegazy-ahmed_excel-dataanalyst-datavisualization-activity-7116746036001275904-J6TA?utm_source=share&utm_medium=member_desktop)
-### [Link](https://www.linkedin.com/posts/hegazy-ahmed_excel-dataanalyst-datavisualization-activity-7116746036001275904-J6TA?utm_source=share&utm_medium=member_desktop)
+### [Sales performce](https://www.linkedin.com/posts/hegazy-ahmed_excel-dataanalyst-datavisualization-activity-7116746036001275904-J6TA?utm_source=share&utm_medium=member_desktop) | [Link](https://www.linkedin.com/posts/hegazy-ahmed_excel-dataanalyst-datavisualization-activity-7116746036001275904-J6TA?utm_source=share&utm_medium=member_desktop)
 
 the company earned a total of 15,990,000,000 EGP in 2023. Top consultants by sales revenue include Mohmed, Rony, Hany, Dary, and Kisho, with Mohmed leading at 1,727,000,000 EGP. Monthly earnings peaked at 3.8 billion EGP and fluctuated throughout the year, rising notably towards the end.
 Of the 926 total paid calls, they accounted for 75% of all calls, with an average duration of 3 minutes and 55 seconds. Advertising expenditure totaled 16 billion EGP, with Television Ads and Facebook being the largest channels. The top sales teams were Mohammed and Salah, each with over 5 billion EGP in sales.
@@ -287,6 +289,7 @@ Advertisement performance varied, showing peaks in certain months, and area code
 
 
 ![Sales](sales.jpg)
+
 
 ### [HR Attrition dashboard using Excel](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-this-hr-attrition-activity-7121396252549758976-5rpk?utm_source=share&utm_medium=member_desktop) | [Link to Project](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-this-hr-attrition-activity-7121396252549758976-5rpk?utm_source=share&utm_medium=member_desktop)
 
