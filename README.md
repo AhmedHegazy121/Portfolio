@@ -37,6 +37,27 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 
 
 
+### [BMW Car Sales Dashboar](https://public.tableau.com/shared/CB8NKYGNK?:display_count=n&:origin=viz_share_link)
+
+
+I have worked on three dynamic and interactive dashboards for BMW. The first one provides an overview of the annual revenue, highlighting the year with the highest revenue. 
+The second dashboard offers an interactive comparison of the current year’s revenue with the previous year, allowing users to explore the differences. 
+The third dashboard dives deep into each BMW model, offering detailed and interactive insights into every single model. All these dashboards are designed to be highly dynamic and user-friendly.
+
+**What are the Key Insights that we could focus on to provide Valuable Information**
+- Revenue Trends
+- Top-Selling Models
+- Sales Performance by Country
+- Sales Channel Performance
+- Quantity Sold
+- Year over Year Analysis
+
+
+[BMW Car Sales Dashboard![image](https://github.com/user-attachments/assets/1a06ce08-1193-41a8-8a1d-6c25be9d1d59)
+
+
+
+
 
 
 ### **[Case Study: How Does a Bike-Share Navigate Speedy Success Dashboard](https://public.tableau.com/views/CaseStudyHowDoesaBike-ShareNavigateSpeedySuccess_17228246429470/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  | [Link](https://public.tableau.com/views/CaseStudyHowDoesaBike-ShareNavigateSpeedySuccess_17228246429470/Dashboard1?:showVizHome=no)
@@ -212,27 +233,27 @@ These queries aim to perform various analyses such as calculating totals, averag
 **Insights**
 -Orders are ranked based on their sales from highest to lowest.
 
--A unique rank is assigned to each order.
+- A unique rank is assigned to each order.
 
--Ties are allowed, so orders with identical sales receive the same rank.
+- Ties are allowed, so orders with identical sales receive the same rank.
 
--Ranks are assigned with no gaps in the case of ties.
+- Ranks are assigned with no gaps in the case of ties.
 
--Analyze top performers to guide targeted marketing efforts.
+- Analyze top performers to guide targeted marketing efforts.
 
--Identify the highest sales for each product to focus on the best-selling products.
+- Identify the highest sales for each product to focus on the best-selling products.
 
--Identify underperformers to help manage risks and optimize strategies.
+- Identify underperformers to help manage risks and optimize strategies.
 
--Find the two customers with the lowest total sales to identify potential churn risks.
+- Find the two customers with the lowest total sales to identify potential churn risks.
 
--Assign new IDs to the rows in the orders archive table.
+- Assign new IDs to the rows in the orders archive table.
 
--This helps uniquely identify rows in the archive.
+- This helps uniquely identify rows in the archive.
 
--Identify and remove duplicate rows in the Orders Archive.
+- Identify and remove duplicate rows in the Orders Archive.
 
--Retain only the first occurrence of each unique row
+- Retain only the first occurrence of each unique row
 
 
 
