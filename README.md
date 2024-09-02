@@ -37,7 +37,7 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 
 
 
-### [BMW Car Sales Dashboar](https://public.tableau.com/shared/CB8NKYGNK?:display_count=n&:origin=viz_share_link)
+### [BMW Car Sales Dashboar](https://public.tableau.com/app/profile/ahmed.hegazy/viz/Book1_17247314164760/BigPicture)
 
 
 I have worked on three dynamic and interactive dashboards for BMW. The first one provides an overview of the annual revenue, highlighting the year with the highest revenue. 
