@@ -53,7 +53,7 @@ The third dashboard dives deep into each BMW model, offering detailed and intera
 - Year over Year Analysis
 
 
-![BIG](Big _Picture.png)
+![BIG](Big.png)
 
 
 
