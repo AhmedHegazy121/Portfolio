@@ -178,6 +178,67 @@ The response is parsed as JSON and printed in a readable format. Errors such as 
 
 
 
+### [Advanced SQL Aggregate Window Functions ](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Advanced_aggregations.sql) | [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Advanced_aggregations.sql)
+
+These queries aim to perform various analyses such as calculating totals, averages, rankings, and detecting duplicates or deviations, making them valuable tools for data analysis and reporting.
+
+**Insight**
+
+- Find the total sales across all orders and by each product. Additionally, provide details such as order ID, order date, and sales.
+- Rank each order based on their sales from highest to lowest, and provide details such as order ID and order date.
+- Calculate the total sales using a sliding window of two following rows after the current row, and provide details such as order ID, order date, and sales.
+- Calculate the total sales using a sliding window of two preceding rows before the current row, and provide details such as order ID, order date, and sales.
+- Rank customers based on their total sales.
+- Find the total number of orders and the total number of orders for each customer. Additionally, provide details such as order ID and order date.
+- Check for null values by finding the total number of customers and the total number of scores for the customers. Additionally, provide all details of customers.
+- Check whether the table Orders contains any duplicate rows by counting the primary key.
+- Find the total sales across all orders and the total sales for each product. Additionally, provide details such as order ID and order date.
+- Find the percentage contribution of each product's sales to the total sales.
+- Find the average sales across all orders and the average sales for each product. Additionally, provide details such as order ID and order date.
+- Find the average scores of customers. Additionally, provide details such as customer ID and last name.
+- Find all orders where sales are higher than the average sales across all orders.
+- Find the highest and lowest sales across all orders and for each product. Additionally, provide details such as order ID and order date.
+- Calculate the deviation of each sale from both the minimum and maximum sales amounts.
+- Show the employees who have the highest salaries.
+- Calculate the moving average of sales for each product over time, including only the next order.
+
+
+
+
+
+
+[Advanced Ranking Window Use Cases](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Ranking_Windows.sql)  | [link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Ranking_Windows.sql) 
+
+**Insights**
+-Orders are ranked based on their sales from highest to lowest.
+
+-A unique rank is assigned to each order.
+
+-Ties are allowed, so orders with identical sales receive the same rank.
+
+-Ranks are assigned with no gaps in the case of ties.
+
+-Analyze top performers to guide targeted marketing efforts.
+
+-Identify the highest sales for each product to focus on the best-selling products.
+
+-Identify underperformers to help manage risks and optimize strategies.
+
+-Find the two customers with the lowest total sales to identify potential churn risks.
+
+-Assign new IDs to the rows in the orders archive table.
+
+-This helps uniquely identify rows in the archive.
+
+-Identify and remove duplicate rows in the Orders Archive.
+
+-Retain only the first occurrence of each unique row
+
+
+
+
+
+
 ### [Exploratory Data Analysis Using SQL and Tableau](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/breaking%20_down%20_%20bteween_%20Female_%20and_%20Male.sql) | [Link ](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/breaking%20_down%20_%20bteween_%20Female_%20and_%20Male.sql) | [Link to VIZ ](https://public.tableau.com/app/profile/ahmed.hegazy/viz/BreakdownbetweenMandF/Dashboard1)
   
   
@@ -204,29 +265,6 @@ Outcome: Provided valuable insights into gender distribution, departmental trend
 
 
 
-### [Advanced SQL Aggregate Window Functions ](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Advanced_aggregations.sql) | [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Advanced_aggregations.sql)
-
-These queries aim to perform various analyses such as calculating totals, averages, rankings, and detecting duplicates or deviations, making them valuable tools for data analysis and reporting.
-
-**Insight**
-
-- Find the total sales across all orders and by each product. Additionally, provide details such as order ID, order date, and sales.
-- Rank each order based on their sales from highest to lowest, and provide details such as order ID and order date.
-- Calculate the total sales using a sliding window of two following rows after the current row, and provide details such as order ID, order date, and sales.
-- Calculate the total sales using a sliding window of two preceding rows before the current row, and provide details such as order ID, order date, and sales.
-- Rank customers based on their total sales.
-- Find the total number of orders and the total number of orders for each customer. Additionally, provide details such as order ID and order date.
-- Check for null values by finding the total number of customers and the total number of scores for the customers. Additionally, provide all details of customers.
-- Check whether the table Orders contains any duplicate rows by counting the primary key.
-- Find the total sales across all orders and the total sales for each product. Additionally, provide details such as order ID and order date.
-- Find the percentage contribution of each product's sales to the total sales.
-- Find the average sales across all orders and the average sales for each product. Additionally, provide details such as order ID and order date.
-- Find the average scores of customers. Additionally, provide details such as customer ID and last name.
-- Find all orders where sales are higher than the average sales across all orders.
-- Find the highest and lowest sales across all orders and for each product. Additionally, provide details such as order ID and order date.
-- Calculate the deviation of each sale from both the minimum and maximum sales amounts.
-- Show the employees who have the highest salaries.
-- Calculate the moving average of sales for each product over time, including only the next order.
 
 
 
