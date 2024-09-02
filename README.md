@@ -53,7 +53,12 @@ The third dashboard dives deep into each BMW model, offering detailed and intera
 - Year over Year Analysis
 
 
-[BMW Car Sales Dashboard![image](https://github.com/user-attachments/assets/1a06ce08-1193-41a8-8a1d-6c25be9d1d59)
+[BMW Car Sales Dashboard![image](https://github.com/user-attachments/assets/1a06ce08-1193-41a8-8a1d-6c25be9d1d59)}
+![Sales Performance Dashboard](Big _Picture.png)
+![Sales Performance Dashboard](KPIS _For _All _Car.png)
+![Sales Performance Dashboard]KPis _Between_Years.png)
+
+]
 
 
 
