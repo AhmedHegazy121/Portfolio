@@ -52,7 +52,7 @@ The third dashboard dives deep into each BMW model, offering detailed and intera
 - Quantity Sold
 - Year over Year Analysis
 
-![BIG](All_Car.png)
+![BIG](AllCar.png)
 ![BIG](Big.png)
 ![BIG](KPis.png)
 
