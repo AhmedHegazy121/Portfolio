@@ -204,9 +204,18 @@ The response is parsed as JSON and printed in a readable format. Errors such as 
 # SQL 
 
 
+### (SQL Value Window Functions | LEAD, LAG, FIRST_VALUE, LAST_VALUE)[https://github.com/AhmedHegazy121/portfolioProjects/blob/main/SQL%20Value%20Window%20Functions.sql]
 
 
-### [Advanced SQL Aggregate Window Functions ](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Advanced_aggregations.sql) | [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Advanced_aggregations.sql)
+**Tasks :**
+- Analyze the month-over-month (MoM) performonce by finding the percentage change in sales between the current and previous month.
+- Anaylze customer loyalty by ranking customers based on the average number of days between  orders
+- Find the  lowest and highest sales for each product
+- use case compare to Extermes How well a value is performing relative to the extremes
+
+
+
+### [Advanced SQL Aggregate Window Functions ](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Advanced_aggregations.sql) | [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Advanced_aggregations.sql) | [Video}(https://www.linkedin.com/posts/hegazy-ahmed_sql-mysqlserver-analysis-activity-7236908944193929216-pUp-?utm_source=share&utm_medium=member_desktop)
 
 These queries aim to perform various analyses such as calculating totals, averages, rankings, and detecting duplicates or deviations, making them valuable tools for data analysis and reporting.
 
@@ -275,19 +284,19 @@ These queries aim to perform various analyses such as calculating totals, averag
 
 Key Responsibilities:
 
--Employee Gender Breakdown (1990-Present):
+- Employee Gender Breakdown (1990-Present):
 
--Analyzed employee distribution by gender over the years using SQL.
-Departmental Gender Comparison:
+- Analyzed employee distribution by gender over the years using SQL.
+  Departmental Gender Comparison:
 
--Compared male and female employee distribution across departments over time.
-Average Salary Analysis by Gender:
+- Compared male and female employee distribution across departments over time.
+  Average Salary Analysis by Gender:
 
--Calculated and compared average salaries of male and female employees by department.
-Salary Range Analysis (50,000 - 90,000):
+- Calculated and compared average salaries of male and female employees by department.
+ Salary Range Analysis (50,000 - 90,000):
 
--Developed a stored procedure to analyze average salaries within a specified range by gender and department.
-Technologies Used: SQL, Stored Procedures
+- Developed a stored procedure to analyze average salaries within a specified range by gender and department.
+  Technologies Used: SQL, Stored Procedures
 
 Outcome: Provided valuable insights into gender distribution, departmental trends, and salary equity, aiding HR in informed decision-making.
 
