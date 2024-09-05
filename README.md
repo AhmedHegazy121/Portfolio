@@ -204,7 +204,7 @@ The response is parsed as JSON and printed in a readable format. Errors such as 
 # SQL 
 
 
-### (SQL Value Window Functions | LEAD, LAG, FIRST_VALUE, LAST_VALUE)[https://github.com/AhmedHegazy121/portfolioProjects/blob/main/SQL%20Value%20Window%20Functions.sql]
+### [SQL Value Window Functions | LEAD, LAG, FIRST_VALUE, LAST_VALUE](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/SQL%20Value%20Window%20Functions.sql)
 
 
 **Tasks :**
@@ -215,7 +215,7 @@ The response is parsed as JSON and printed in a readable format. Errors such as 
 
 
 
-### [Advanced SQL Aggregate Window Functions ](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Advanced_aggregations.sql) | [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Advanced_aggregations.sql) | [Video}(https://www.linkedin.com/posts/hegazy-ahmed_sql-mysqlserver-analysis-activity-7236908944193929216-pUp-?utm_source=share&utm_medium=member_desktop)
+### [Advanced SQL Aggregate Window Functions ](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Advanced_aggregations.sql) | [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Advanced_aggregations.sql) | [Video](https://www.linkedin.com/posts/hegazy-ahmed_sql-mysqlserver-analysis-activity-7236908944193929216-pUp-?utm_source=share&utm_medium=member_desktop)
 
 These queries aim to perform various analyses such as calculating totals, averages, rankings, and detecting duplicates or deviations, making them valuable tools for data analysis and reporting.
 
@@ -247,7 +247,8 @@ These queries aim to perform various analyses such as calculating totals, averag
 ### [Advanced Ranking Window Use Cases](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Ranking_Windows.sql)  | [link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Ranking_Windows.sql) 
 
 **Insights**
--Orders are ranked based on their sales from highest to lowest.
+
+- Orders are ranked based on their sales from highest to lowest.
 
 - A unique rank is assigned to each order.
 
