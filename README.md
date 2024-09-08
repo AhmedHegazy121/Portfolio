@@ -276,6 +276,19 @@ These queries aim to perform various analyses such as calculating totals, averag
 
 
 
+### [Union Use Cases](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Union.sql)
+
+
+**Tasks:**
+- Combine the data from employees and customers into one table.
+- Combine the data from employees and customers into one table including duplicates,
+- Find employees who are not customers at the same time.
+- Find empoyees who are also customers.
+- combine all orders into one report without duplicates.
+
+
+
+
 
 ### [Exploratory Data Analysis Using SQL and Tableau](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/breaking%20_down%20_%20bteween_%20Female_%20and_%20Male.sql) | [Link ](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/breaking%20_down%20_%20bteween_%20Female_%20and_%20Male.sql) | [Link to VIZ ](https://public.tableau.com/app/profile/ahmed.hegazy/viz/BreakdownbetweenMandF/Dashboard1)
   
