@@ -270,7 +270,24 @@ These queries aim to perform various analyses such as calculating totals, averag
 
 - Identify and remove duplicate rows in the Orders Archive.
 
-- Retain only the first occurrence of each unique row
+- Retain only the first occurrence of each unique row.
+
+
+
+
+
+
+### [Case When Statement ](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Case.sql)
+**Task**
+- Generate a report showing the total sales for each category.
+- Retrieve employee details with gender displayed as full text.
+- Find average scores of customers and treat Nulls as 0 and additional provide details such customrID and Lastname.
+- count how many times each customers has made an order with sales greater than 30.
+
+
+
+
+
 
 
 
