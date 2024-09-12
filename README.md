@@ -38,8 +38,8 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 
 
 
-![](![BIG](KPis.png))  
-![](CurrentyearQuantity.png)
+![](Currentyearsale.png)  ![](CurrentyearQuantity.png)
+
 
 
 
