@@ -35,7 +35,7 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 
 # Tableau
 
-
+### [Comprehensive Trend and Variance Analysis of Copier Sales with Sub-Category Performance Comparison](https://public.tableau.com/app/profile/ahmed.hegazy/viz/spirkline/Currentyearsale)
 
 
  ![](Table.png)   ![](Currentyearsale.png)  ![](CurrentyearQuantity.png)    ![](CurrentyearProfit.png)   ![](Currentyearorders.png) 
