@@ -66,7 +66,9 @@ The third dashboard dives deep into each BMW model, offering detailed and intera
 ### [Comprehensive Trend and Variance Analysis of Copier Sales with Sub-Category Performance Comparison](https://public.tableau.com/app/profile/ahmed.hegazy/viz/spirkline/Currentyearsale)
 
 **Tasks :**
-Comprehensive sales, profit and Discount trend analysis across all years.
+
+ ✔ Comprehensive sales, profit and Discount trend analysis across all years.
+ 
 ✔ We will perform a trend analysis by calculating this year's sales.
 
 ✔ Calculation of this year's sales, along with the variance analysis across sub-categories.
@@ -312,7 +314,7 @@ These queries aim to perform various analyses such as calculating totals, averag
 
 
 
-### (Handle Null with Null Function)[https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Null%20Function.sql]
+### [Handle Null with Null Function](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Null%20Function.sql)
 
 **Tasks**
 - Find the average scores of the customers.
