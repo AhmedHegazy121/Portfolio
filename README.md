@@ -222,6 +222,8 @@ The response is parsed as JSON and printed in a readable format. Errors such as 
 
 
 
+
+
 ### [Advanced SQL Aggregate Window Functions ](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Advanced_aggregations.sql) | [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Advanced_aggregations.sql) | [Video](https://www.linkedin.com/posts/hegazy-ahmed_sql-mysqlserver-analysis-activity-7236908944193929216-pUp-?utm_source=share&utm_medium=member_desktop)
 
 These queries aim to perform various analyses such as calculating totals, averages, rankings, and detecting duplicates or deviations, making them valuable tools for data analysis and reporting.
@@ -282,6 +284,22 @@ These queries aim to perform various analyses such as calculating totals, averag
 
 
 
+
+
+### (Handle Null with Null Function)[https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Null%20Function.sql]
+
+**Tasks**
+- Find the average scores of the customers.
+- Display the full name of customrs in a single field and add 10 bouns pints to each customer's score.
+- Sort the customrs from lowest to highest scores, with nulls appearing last.
+- Find  the sales price for each order by dividing the sales by quantity.
+- Identify the customres who have no scores.
+- List all customres who have score.
+- list all details for customers who have not placed any orders.
+
+
+
+  
 
 
 ### [Case When Statement ](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Case.sql)
