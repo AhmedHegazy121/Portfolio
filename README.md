@@ -314,9 +314,10 @@ These queries aim to perform various analyses such as calculating totals, averag
 
 
 
-### [Handle Null with Null Function](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Null%20Function.sql)
+### [Handle Nulls with Null Function](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Null%20Function.sql)
 
 **Tasks**
+- The Difference amoung Null , Empty string and Blank spaces. 
 - Find the average scores of the customers.
 - Display the full name of customrs in a single field and add 10 bouns pints to each customer's score.
 - Sort the customrs from lowest to highest scores, with nulls appearing last.
