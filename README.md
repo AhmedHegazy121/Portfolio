@@ -356,6 +356,25 @@ These queries aim to perform various analyses such as calculating totals, averag
 - Find employees who are not customers at the same time.
 - Find empoyees who are also customers.
 - combine all orders into one report without duplicates.
+- 
+
+
+### [Date Use Case ](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Date%20Function.sql)
+
+**Tasks:**
+- Extaract the year , month, day, week and quarter from Creationtime.
+- zoom in and zoom out the level of details out by using DateTrunce.
+- Extaract the last day of the months and first day. 
+- how many orders were placed each year ?
+-  how many orders were placed each month ?
+-  Data Filtering : Show all orders that were placed during the month of february.
+-  Formating, Cast, Convert, Detediff and Isdate .
+-  Show Creation Time using the following format: Day web jan Q12025 12:34:56 PM.
+- Task extract 10  days , add 3 months and add2 years from orderdate.
+-  Calculate the age of employees.
+-  Find the average shipping duration in days for each month.
+-  Find the number of days between each order and previous oreder.
+
 
 
 
