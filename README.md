@@ -40,6 +40,12 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 
 
 
+
+
+![BIG](Sales.png)   ![BIG](Profit.png)      ![BIG](Qualityandorders.png)  ![BIG](Country.png)  ![BIG](SalesandprofitDashboard.png)  
+
+
+
 ### [BMW Car Sales Dashboar](https://public.tableau.com/app/profile/ahmed.hegazy/viz/Book1_17247314164760/BigPicture) | [ViZ](https://public.tableau.com/app/profile/ahmed.hegazy/viz/Book1_17247314164760/BigPicture) | [Exploration](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FAhmedHegazy121%2FportfolioProjects%2Fmain%2FExploration.pptx&wdOrigin=BROWSELINK)
 
 
