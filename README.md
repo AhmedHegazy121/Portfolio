@@ -30,7 +30,7 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 - [Data Analytics Bootcamp Certificate (YouTube)](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)
 - Relevant coursework: Statistics, information Management
 - English course (Get Way level 9)
-- Introduction to SQL (SKILLUP)
+- [Introduction to SQL (SKILLUP)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODExIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNTIxNDAyNF8xNzE1MzQxMzcxLnBuZyIsInVzZXJuYW1lIjoiQWhtZWQgRWxzYWVkIEhlZ2F6eSJ9&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4309%2FIntroduction-to-SQL%2Fcertificate%2Fdownload-skillup&%24web_only=true)
 
  
 
