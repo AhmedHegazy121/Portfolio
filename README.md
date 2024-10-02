@@ -25,7 +25,8 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
  | Cumulative Grade: Very Good
 - [ Google Data Analytics Professional Certificate (Coursera)
 ](https://www.coursera.org/account/accomplishments/professional-cert/4F6K7SEA4KV2)
-- Introduction to Data Analytics (Coursera)
+- [Introduction to Data Analytics (Coursera)](https://www.credly.com/badges/2c1bb510-081a-4dd4-a1d7-9267ab41572c/public_url)
+- [Tableau Ultimate Course | Zero to Hero(YouTube)](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZJqrKcUUCWCWPYCrlcVm9v)
 - Data Analytics Bootcamp Certificate (YouTube)
 - Relevant coursework: Statistics, information Management
 - English course (Get Way level 9)
