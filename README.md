@@ -230,6 +230,9 @@ Outcome: Provided valuable insights into gender distribution, departmental trend
 
 
 
+
+
+
 ### [Advanced SQL Aggregate Window Functions ](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Advanced_aggregations.sql) | [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Advanced_aggregations.sql) | [Video](https://www.linkedin.com/posts/hegazy-ahmed_sql-mysqlserver-analysis-activity-7236908944193929216-pUp-?utm_source=share&utm_medium=member_desktop)
 
 These queries aim to perform various analyses such as calculating totals, averages, rankings, and detecting duplicates or deviations, making them valuable tools for data analysis and reporting.
@@ -253,6 +256,8 @@ These queries aim to perform various analyses such as calculating totals, averag
 - Calculate the deviation of each sale from both the minimum and maximum sales amounts.
 - Show the employees who have the highest salaries.
 - Calculate the moving average of sales for each product over time, including only the next order.
+
+
 
 
 
@@ -286,6 +291,22 @@ These queries aim to perform various analyses such as calculating totals, averag
 - Identify and remove duplicate rows in the Orders Archive.
 
 - Retain only the first occurrence of each unique row.
+
+
+
+
+
+
+### [Advanced Common Table Expression(CTE)](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/CTE_Commen%20Table%20Expressions.sql)
+
+**Tasks :**
+- Find the total sales per cusomer.
+- Find the last order date per customer.
+-  Rank Customers based on total sales per customer.
+-  Segment customers based on their total sales.
+-  Generate a sequence of Numbers from 1 to 20.
+-   Show the employee hierarchy by displaying each employee's level within the organization.
+
 
 
 
@@ -345,6 +366,8 @@ These queries aim to perform various analyses such as calculating totals, averag
 
 
 
+
+
 ### [Union Use Cases](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Union.sql)
 
 
@@ -354,7 +377,14 @@ These queries aim to perform various analyses such as calculating totals, averag
 - Find employees who are not customers at the same time.
 - Find empoyees who are also customers.
 - combine all orders into one report without duplicates.
-- 
+
+
+  
+
+
+
+
+
 
 
 ### [Date Use Case ](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Date%20Function.sql)
@@ -372,6 +402,9 @@ These queries aim to perform various analyses such as calculating totals, averag
 -  Calculate the age of employees.
 -  Find the average shipping duration in days for each month.
 -  Find the number of days between each order and previous oreder.
+
+
+
 
 
 
@@ -429,7 +462,13 @@ Outcome: Provided valuable insights into gender distribution, departmental trend
 
 
 
+
+
+
 # Python
+
+
+
 
 
 
@@ -447,6 +486,11 @@ Outcome: Provided valuable insights into gender distribution, departmental trend
 - Removed Negative Durations: Dropped rows with negative ride lengths.
 - Conduct descriptive analysis.
 - Export a summary file for further analysis.
+
+
+
+
+
 
 
 
@@ -472,6 +516,10 @@ Dropping a Specific Row: Finally, the code drops a row with index 67, which cont
 
 
 
+
+
+
+
 ### [The CoinMarketCap API](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/API.ipynb) | [Link](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/API.ipynb)
 
 Here is a refined and complete version of the code to fetch the latest cryptocurrency listings from the CoinMarketCap API. Make sure to handle the API key securely.
@@ -484,6 +532,10 @@ The response is parsed as JSON and printed in a readable format. Errors such as 
 
 
 # PowerBI
+
+
+
+
 
 
 
@@ -505,6 +557,12 @@ By focusing on these strategies, the business can build a loyal customer base an
 ![Fleet Management Dashboard](Feet_mangment.PNG)
 
 
+
+
+
+
+
+
 ### [Analyzing email marketing performance](https://www.linkedin.com/posts/hegazy-ahmed_marketing-mail-mailcamapign-activity-7184779199214219265-rVsn?utm_source=share&utm_medium=member_desktop) | [Link](https://www.linkedin.com/posts/hegazy-ahmed_marketing-mail-mailcamapign-activity-7184779199214219265-rVsn?utm_source=share&utm_medium=member_desktop)
 
 
@@ -520,7 +578,17 @@ By focusing on these strategies, the business can build a loyal customer base an
 
 
 
+
+
+
+
+
+
 # Excel
+
+
+
+
 
 
 
@@ -541,6 +609,13 @@ Marcelene Boyer emerged as our top-performing brand, while Mountain Bikes domina
 
 ![Managed Attack Surface](Captureline.PNG)
 
+
+
+
+
+
+
+
 ### [Sales performce](https://www.linkedin.com/posts/hegazy-ahmed_excel-dataanalyst-datavisualization-activity-7116746036001275904-J6TA?utm_source=share&utm_medium=member_desktop) | [Link](https://www.linkedin.com/posts/hegazy-ahmed_excel-dataanalyst-datavisualization-activity-7116746036001275904-J6TA?utm_source=share&utm_medium=member_desktop)
 
 the company earned a total of 15,990,000,000 EGP in 2023. Top consultants by sales revenue include Mohmed, Rony, Hany, Dary, and Kisho, with Mohmed leading at 1,727,000,000 EGP. Monthly earnings peaked at 3.8 billion EGP and fluctuated throughout the year, rising notably towards the end.
@@ -550,6 +625,11 @@ Advertisement performance varied, showing peaks in certain months, and area code
 
 
 ![Sales](sales.jpg)
+
+
+
+
+
 
 
 ### [HR Attrition dashboard using Excel](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-this-hr-attrition-activity-7121396252549758976-5rpk?utm_source=share&utm_medium=member_desktop) | [Link to Project](https://www.linkedin.com/posts/hegazy-ahmed_hello-everyone-i-have-created-this-hr-attrition-activity-7121396252549758976-5rpk?utm_source=share&utm_medium=member_desktop)
