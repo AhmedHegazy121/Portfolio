@@ -296,6 +296,29 @@ These queries aim to perform various analyses such as calculating totals, averag
 
 
 
+  
+
+
+### [SQL Views ](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Views.sql)
+
+**Tasks :**
+
+- Find the running total of sales for each month.
+- update the view.
+- Provide a view that combine details from orders, products , customers, and employees.
+- provide a view for the EU Sales team that combines details from all tables and excludes data related to the USA.
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### [Advanced Common Table Expression(CTE)](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/CTE_Commen%20Table%20Expressions.sql)
 
