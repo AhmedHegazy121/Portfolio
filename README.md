@@ -38,6 +38,12 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 
 [Salary Distribution for the Accounting Department in San Francisco](https://public.tableau.com/views/BreakingdownbetweenEmployees/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+Tasks :
+- Salary Distribution  Comparison: San Francisco vs. Other Locations
+- how many years was Sarda Kooper between  the median and upper Quartile of pay for employees working for the city of San Francisco
+In 2018, she earned $76,000 in Account Two, placing him at the median. In 2019, she was also in Account Two and received a pay raise to $83,000, an increase of 7%.
+This indicates that her salary was between the median and the upper quartile.
+
 ![big](SalaryDistribution.png)
 
 
