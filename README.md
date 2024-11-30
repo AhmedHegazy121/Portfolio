@@ -35,6 +35,16 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
  
 
 # Tableau
+
+[Salary Distribution for the Accounting Department in San Francisco](https://public.tableau.com/views/BreakingdownbetweenEmployees/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![big](SalaryDistribution.png)
+
+
+
+
+
+
 ### [Optimizing HPN Operations: A Deep Dive into Sales, Profit, Quantity and Order Performance](https://public.tableau.com/app/profile/ahmed.hegazy/viz/HPN_Project/Sales)
 
 This dashboard provides a comprehensive overview of HPN sales and profit performance, analyzing key metrics like total sales, profit, quantity, and category-level trends. It includes visualizations such as maps, bar charts, line charts, and scatter plots to illustrate geographic distribution, year-over-year growth, customer segmentation, and product performance.
