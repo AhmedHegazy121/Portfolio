@@ -384,6 +384,9 @@ Explores join algorithms (Nested Loops, Hash Match, Merge Join) with guidance on
 
 
 
+
+
+
 ### [Advanced Common Table Expression(CTE)](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/CTE_Commen%20Table%20Expressions.sql)
 
 **Tasks :**
@@ -448,6 +451,23 @@ Explores join algorithms (Nested Loops, Hash Match, Merge Join) with guidance on
 - Retrieve employee details with gender displayed as full text.
 - Find average scores of customers and treat Nulls as 0 and additional provide details such customrID and Lastname.
 - count how many times each customers has made an order with sales greater than 30.
+
+
+
+
+
+
+### [Using Partition Function](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Partition%20Function.sql)
+This project showcases my ability to implement table partitioning in SQL Server to optimize query performance and manage large datasets effectively.
+
+**Steps**
+- I defined a partition function named partitionByYear(Date) to segment data into partitions based on year boundaries. I also verified the existing partition functions using sys.partition_functions.
+- I created four filegroups (FG_2023, FG_2024, FG_2025, FG_2026) to logically organize the partitions and checked the created filegroups using sys.filegroups.
+- To store partition data, I added secondary .ndf files (P_2023.ndf, P_2024.ndf, P_2025.ndf, P_2026.ndf) to the respective filegroups. The details of the files and their paths were verified using a query joining sys.filegroups and sys.master_files.
+- I set up a partition scheme named schemePartitionByYear to map partitions to the appropriate filegroups according to the defined partition function. I validated the scheme and its mappings using sys.partition_schemes.
+- I set up a partition scheme named schemePartitionByYear to map partitions to the appropriate filegroups according to the defined partition function. I validated the scheme and its mappings using sys.partition_schemes.
+- I verified that records were correctly stored in their respective partitions by querying partition-specific metadata from system views like sys.partitions and sys.filegroups.
+- Finally, I compared the performance of the partitioned table with a non-partitioned version (Sales.Orders_Nopartittioned). By querying data based on OrderDate, I demonstrated the efficiency of partitioned queries, where fewer rows were read compared to non-partitioned queries.
 
 
 
