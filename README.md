@@ -43,15 +43,17 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 
 # Tableau
 
-### [Salary Distribution for the Accounting Department in San Francisco](https://public.tableau.com/views/BreakingdownbetweenEmployees/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-Tasks :
-- Salary Distribution  Comparison: San Francisco vs. Other Locations
-- how many years was Sarda Kooper between  the median and upper Quartile of pay for employees working for the city of San Francisco
-In 2018, she earned $76,000 in Account Two, placing him at the median. In 2019, she was also in Account Two and received a pay raise to $83,000, an increase of 7%.
-This indicates that her salary was between the median and the upper quartile.
+### [Amazon Prime Video - Movies and TV Shows](https://public.tableau.com/app/profile/ahmed.hegazy/viz/AmazonPrimeVideo_17337669603610/Dashboard1)
+**About this Dataset:**
+Amazon Prime is another one of the most popular media and video streaming platforms. They have close to 10000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Amazon Prime, along with details such as - cast, directors, ratings, release year, duration, etc.
+**Interesting Task Ideas:**
+- Understanding what content is available in different countries
+- Identifying similar content by matching text-based features
+- Network analysis of Actors / Directors and find interesting insights
+- Does Amazon Prime has more focus on TV Shows than movies in recent years.
+ ![](amazonVideo.png)
 
-![big](SalaryDistribution.png)
 
 
 
@@ -149,6 +151,19 @@ The third dashboard dives deep into each BMW model, offering detailed and intera
 
 
 
+### [Amazon Prime Video - Movies and TV Shows](https://public.tableau.com/app/profile/ahmed.hegazy/viz/AmazonPrimeVideo_17337669603610/Dashboard1)
+**About this Dataset:**
+Amazon Prime is another one of the most popular media and video streaming platforms. They have close to 10000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Amazon Prime, along with details such as - cast, directors, ratings, release year, duration, etc.
+**Interesting Task Ideas:**
+- Understanding what content is available in different countries
+- Identifying similar content by matching text-based features
+- Network analysis of Actors / Directors and find interesting insights
+- Does Amazon Prime has more focus on TV Shows than movies in recent years.
+ ![](amazonVideo.png)
+
+
+
+
 
 
 
@@ -233,6 +248,15 @@ Outcome: Provided valuable insights into gender distribution, departmental trend
 
 ![photo](F_M.png)
 
+### [Salary Distribution for the Accounting Department in San Francisco](https://public.tableau.com/views/BreakingdownbetweenEmployees/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Tasks :
+- Salary Distribution  Comparison: San Francisco vs. Other Locations
+- how many years was Sarda Kooper between  the median and upper Quartile of pay for employees working for the city of San Francisco
+In 2018, she earned $76,000 in Account Two, placing him at the median. In 2019, she was also in Account Two and received a pay raise to $83,000, an increase of 7%.
+This indicates that her salary was between the median and the upper quartile.
+
+![big](SalaryDistribution.png)
 
 
 
