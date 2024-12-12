@@ -26,6 +26,7 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 - [ Google Data Analytics Professional Certificate (Coursera)
 ](https://www.coursera.org/account/accomplishments/professional-cert/4F6K7SEA4KV2)
 - [Business Analysis Foundations (Linkedin)](https://lnkd.in/dCBh69b6)
+- [Business Process Modeling (Linkedin)](https://lnkd.in/dNAX7VdQ)
 - [Statistics Foundations Using Data Sets (Linkedin)](https://lnkd.in/d4ev6gi3)
 - [Data Visualization: Storytelling (Linkedin)](https://lnkd.in/dDAy5S9V)
 - [Excel Business Intelligence: Power Pivot, DAX and Data Modeling(Linkedin)](https://lnkd.in/d-Yj4GGS)
