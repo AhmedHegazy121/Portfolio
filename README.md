@@ -60,8 +60,8 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 
 
 
-## 🔗 **[📚 Featured Projects](#featured-projects)**
-### **Click for Projects to each Tools**
+## 🔗 **[📚Featured Projects](#featured-projects)**
+### **Quick Links - Click for Projects**
 
 <div style="display: flex; gap: 15px;">
   <a href="https://ahmedhegazy121.github.io/SQL-Projects/" target="_blank">
@@ -82,6 +82,14 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 </div>
 
 
+
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+---
 
 
 
