@@ -255,6 +255,30 @@ This indicates that her salary was between the median and the upper quartile.
 
 # SQL 
 
+### [SQL Query Performance Best Practices](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/30%20SQL%20Tips%20and%20Tricks.sql) 
+**[Link to Project](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/30%20SQL%20Tips%20and%20Tricks.sql)**
+
+- Select Only Needed Columns: Avoid SELECT * and specify columns explicitly.
+- Minimize DISTINCT and ORDER BY Usage: Use them only when necessary.
+- Limit Rows for Exploration: Use TOP or LIMIT to restrict the number of rows retrieved.
+- Index Frequently Used Columns: Create nonclustered indexes for columns used in WHERE clauses.
+- Avoid Functions on Columns in Filters: Use alternatives like LIKE, BETWEEN, or raw comparisons.
+- Avoid Leading Wildcards: Use patterns like 'prefix%' instead of '%pattern%'.
+- Use IN for Multiple Conditions: Replace OR with IN for better readability and performance.
+- Prefer Inner Joins: They generally perform faster than outer joins.
+- Use Explicit Joins: ANSI joins (INNER JOIN) are preferred over implicit joins.
+- Index Join Columns: Ensure columns in ON clauses are indexed.
+- Filter Early: Apply filters before joining or during the join process.
+- Aggregate Before Joining Large Tables: Pre-aggregate data to reduce the rows processed in joins.
+- Use UNION ALL Instead of UNION: If duplicates are acceptable, opt for UNION ALL.
+- Optimize Nested Loops: Use SQL hints like OPTION (HASH JOIN) for large and small table joins.
+- Use Columnstore Indexes for Aggregation: They enhance performance for large datasets.
+- Pre-Aggregate for Reporting: Store summarized data in separate tables for faster queries.
+- Choose JOIN or EXISTS Over IN: Use EXISTS for large tables to avoid redundant row processing.
+- Avoid Redundant Logic: Simplify queries using CASE and window functions where applicable.
+- Use Appropriate Data Types: Avoid TEXT and VARCHAR(MAX) when smaller sizes suffice.
+- Limit Data Type Sizes: Use precise lengths for VARCHAR and other data types.
+
 
 ### [SQL Value Window Functions | LEAD, LAG, FIRST_VALUE, LAST_VALUE](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/SQL%20Value%20Window%20Functions.sql)
 
