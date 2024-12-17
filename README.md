@@ -57,40 +57,11 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 - English course (Get Way level 9)
 - [Introduction to SQL (SKILLUP)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODExIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNTIxNDAyNF8xNzE1MzQxMzcxLnBuZyIsInVzZXJuYW1lIjoiQWhtZWQgRWxzYWVkIEhlZ2F6eSJ9&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4309%2FIntroduction-to-SQL%2Fcertificate%2Fdownload-skillup&%24web_only=true)
 
-## 🔗 **My Skills**
-### **Quick Links**
-
-<div style="display: flex; gap: 15px; justify-content: center;">
-  <a href="https://ahmedhegazy121.github.io/SQL-Projects/" target="_blank" style="text-decoration: none;">
-    <button style="padding: 10px 20px; background-color: #1f1f1f; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
-      SQL
-    </button>
-  </a>
-  <a href="https://ahmedhegazy121.github.io/Tableau-Projects/" target="_blank" style="text-decoration: none;">
-    <button style="padding: 10px 20px; background-color: #1f1f1f; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
-      Tableau
-    </button>
-  </a>
-  <a href="https://ahmedhegazy121.github.io/Python-Projects/" target="_blank" style="text-decoration: none;">
-    <button style="padding: 10px 20px; background-color: #1f1f1f; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
-      Python
-    </button>
-  </a>
-  <a href="https://ahmedhegazy121.github.io/PowerBI-Projects/" target="_blank" style="text-decoration: none;">
-    <button style="padding: 10px 20px; background-color: #1f1f1f; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
-      Power BI
-    </button>
-  </a>
-  <a href="https://ahmedhegazy121.github.io/Excel-Projects/" target="_blank" style="text-decoration: none;">
-    <button style="padding: 10px 20px; background-color: #1f1f1f; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
-      Excel
-    </button>
-  </a>
-</div>
 
 
-## 🔗 **My Skills**
-### **Quick Links**
+
+## 🔗 **[📚 Featured Projects](#featured-projects)**
+### **Click for Projects to each Tools**
 
 <div style="display: flex; gap: 15px;">
   <a href="https://ahmedhegazy121.github.io/SQL-Projects/" target="_blank">
@@ -113,7 +84,7 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 
 
 
-## 🔗 **My Skills**
+## 🔗 **[📚 Featured Projects](#featured-projects)**
 ### **Quick Links**
 [![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=sql&logoColor=white)](https://ahmedhegazy121.github.io/SQL-Projects/)  
 [![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=tableau&logoColor=white)]([https://www.tableau.com/](https://ahmedhegazy121.github.io/Tableau-Projects/))  
