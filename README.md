@@ -60,6 +60,15 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 
 ## 🔗 **My Skills**
 ### **Quick Links**
+[![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql&logoColor=white)](https://ahmedhegazy121.github.io/SQL-Projects/)  
+[![Tableau](https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white)](https://ahmedhegazy121.github.io/Tableau-Projects/)  
+[![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://ahmedhegazy121.github.io/Python-Projects/)  
+[![Power BI](https://img.shields.io/badge/-Power%20BI-blue?style=for-the-badge&logo=powerbi&logoColor=white)](https://ahmedhegazy121.github.io/PowerBI-Projects/)  
+[![Excel](https://img.shields.io/badge/-Excel-blue?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://ahmedhegazy121.github.io/Excel-Projects/)
+
+
+## 🔗 **My Skills**
+### **Quick Links**
 [![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=sql&logoColor=white)](https://ahmedhegazy121.github.io/SQL-Projects/)  
 [![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=tableau&logoColor=white)]([https://www.tableau.com/](https://ahmedhegazy121.github.io/Tableau-Projects/))  
 [![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)](https://ahmedhegazy121.github.io/Python-Projects/)  
