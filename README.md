@@ -60,6 +60,38 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 ## 🔗 **My Skills**
 ### **Quick Links**
 
+<div style="display: flex; gap: 15px; justify-content: center;">
+  <a href="https://ahmedhegazy121.github.io/SQL-Projects/" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #1f1f1f; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      SQL
+    </button>
+  </a>
+  <a href="https://ahmedhegazy121.github.io/Tableau-Projects/" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #1f1f1f; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      Tableau
+    </button>
+  </a>
+  <a href="https://ahmedhegazy121.github.io/Python-Projects/" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #1f1f1f; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      Python
+    </button>
+  </a>
+  <a href="https://ahmedhegazy121.github.io/PowerBI-Projects/" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #1f1f1f; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      Power BI
+    </button>
+  </a>
+  <a href="https://ahmedhegazy121.github.io/Excel-Projects/" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #1f1f1f; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+      Excel
+    </button>
+  </a>
+</div>
+
+
+## 🔗 **My Skills**
+### **Quick Links**
+
 <div style="display: flex; gap: 15px;">
   <a href="https://ahmedhegazy121.github.io/SQL-Projects/" target="_blank">
     <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" width="150" height="40"/>
