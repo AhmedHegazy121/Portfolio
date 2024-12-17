@@ -4,12 +4,10 @@
 ![Managed Attack Surface](csiq-what-is-managed-attack-surface.png)
 ##  Cairo  |   (002) 01090446023   |   ahmed.a.hegazy21@gmail.com   |   [Linkedin](https://www.linkedin.com/in/hegazy-ahmed/)
 ### About
-I am an aspiring data analyst with a strong background in data analytics and proficiency in SQL server, Excel, Power BI, 
-Tableau, and Python. I am seeking a data analyst internship where I can leverage my technical skills and passion for 
-Analysis and problem solving to support the company's role as a trusted source of information.
-I possess strong decision-making and problem-solving abilities, with a keen eye for detail and a highly organized approach 
-to work. I am adept at managing relationships with both internal and external stakeholders and have excellent 
-communication skills, enabling me to present complex data in a clear and comprehensible manner.
+Data Analysis Process| Data Analysis | Analytical Thinking | Visualization | Storytelling
+Aspiring data analyst with a solid foundation in data analytics and hands-on experience in SQL Server, Excel, Power
+BI, Tableau, and Python, seeking an internship to apply my analytical skills. Known for effective decision-making
+and clear communication, I excel at presenting complex data and managing stakeholder relationships.
 
 ### Skills: 
 - Programming: Python, R, SQL
@@ -26,10 +24,8 @@ Causation Understanding, Storytelling, Effective Presentation, Strategic Decisio
 
 - Microsoft office (Word, PowerPoint, Outlook)
 
-
-
   
-   Microsoft office (Word, PowerPoint, Outlook)
+  
    
 #  Education and Certifications
 
