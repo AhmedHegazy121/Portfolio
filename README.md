@@ -58,26 +58,27 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 - [Introduction to SQL (SKILLUP)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODExIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNTIxNDAyNF8xNzE1MzQxMzcxLnBuZyIsInVzZXJuYW1lIjoiQWhtZWQgRWxzYWVkIEhlZ2F6eSJ9&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4309%2FIntroduction-to-SQL%2Fcertificate%2Fdownload-skillup&%24web_only=true)
 
 
-## 🔗 **My Skills**
+### 🔗 **My Skills**
 ### **Quick Links**
 
 <div style="display: flex; gap: 15px;">
   <a href="https://ahmedhegazy121.github.io/SQL-Projects/" target="_blank">
-    <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" width="150"/>
+    <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" width="200" height="50"/>
   </a>
   <a href="https://ahmedhegazy121.github.io/Tableau-Projects/" target="_blank">
-    <img src="https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" width="150"/>
+    <img src="https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" width="200" height="50"/>
   </a>
   <a href="https://ahmedhegazy121.github.io/Python-Projects/" target="_blank">
-    <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="150"/>
+    <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="200" height="50"/>
   </a>
   <a href="https://ahmedhegazy121.github.io/PowerBI-Projects/" target="_blank">
-    <img src="https://img.shields.io/badge/-Power%20BI-blue?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" width="150"/>
+    <img src="https://img.shields.io/badge/-Power%20BI-blue?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" width="200" height="50"/>
   </a>
   <a href="https://ahmedhegazy121.github.io/Excel-Projects/" target="_blank">
-    <img src="https://img.shields.io/badge/-Excel-blue?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" width="150"/>
+    <img src="https://img.shields.io/badge/-Excel-blue?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" width="200" height="50"/>
   </a>
 </div>
+
 
 
 ## 🔗 **My Skills**
