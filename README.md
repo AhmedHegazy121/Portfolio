@@ -5,7 +5,7 @@
 ## 🖥️ **Contact Me**
 📧 Email: [ahmed.a.hegazy21@gmail.com ](mailto:ahmed.a.hegazy21@gmail.com)  
 📞 Phone: [00201090446023 ](tel:00201090446023)  
-💼 LinkedIn: [linkedin.com/in/ahmedhegazy]([https://linkedin.com/in/ahmedhegazy](https://www.linkedin.com/in/hegazy-ahmed/)  
+💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/hegazy-ahmed/)  
 🌐 Portfolio: [AhmedHegazy.com](https://AhmedHegazy.com) <!-- Replace with your website link -->
 
 
