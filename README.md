@@ -60,11 +60,11 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 
 ## 🔗 **My Skills**
 ### **Quick Links**
-[![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=sql&logoColor=white)](https://www.sql.org/)  
-[![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)](https://www.python.org/)  
-[![Power BI](https://img.shields.io/badge/-Power%20BI-blue?style=flat&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)  
-[![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/)  
-[![Excel](https://img.shields.io/badge/-Excel-blue?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=sql&logoColor=white)](https://ahmedhegazy121.github.io/SQL-Projects/)  
+[![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=tableau&logoColor=white)]([https://www.tableau.com/](https://ahmedhegazy121.github.io/Tableau-Projects/))  
+[![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)](https://ahmedhegazy121.github.io/Python-Projects/)  
+[![Power BI](https://img.shields.io/badge/-Power%20BI-blue?style=flat&logo=powerbi&logoColor=white)](https://ahmedhegazy121.github.io/PowerBI-Projects/)  
+[![Excel](https://img.shields.io/badge/-Excel-blue?style=flat&logo=microsoft-excel&logoColor=white)](https://ahmedhegazy121.github.io/Excel-Projects/)
 
 
 ## 🎯 **GitHub Stats**
