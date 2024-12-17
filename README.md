@@ -60,11 +60,24 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 
 ## 🔗 **My Skills**
 ### **Quick Links**
-[![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql&logoColor=white)](https://ahmedhegazy121.github.io/SQL-Projects/)  
-[![Tableau](https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white)](https://ahmedhegazy121.github.io/Tableau-Projects/)  
-[![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://ahmedhegazy121.github.io/Python-Projects/)  
-[![Power BI](https://img.shields.io/badge/-Power%20BI-blue?style=for-the-badge&logo=powerbi&logoColor=white)](https://ahmedhegazy121.github.io/PowerBI-Projects/)  
-[![Excel](https://img.shields.io/badge/-Excel-blue?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://ahmedhegazy121.github.io/Excel-Projects/)
+
+<div style="display: flex; gap: 15px;">
+  <a href="https://ahmedhegazy121.github.io/SQL-Projects/" target="_blank">
+    <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" width="150"/>
+  </a>
+  <a href="https://ahmedhegazy121.github.io/Tableau-Projects/" target="_blank">
+    <img src="https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" width="150"/>
+  </a>
+  <a href="https://ahmedhegazy121.github.io/Python-Projects/" target="_blank">
+    <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="150"/>
+  </a>
+  <a href="https://ahmedhegazy121.github.io/PowerBI-Projects/" target="_blank">
+    <img src="https://img.shields.io/badge/-Power%20BI-blue?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" width="150"/>
+  </a>
+  <a href="https://ahmedhegazy121.github.io/Excel-Projects/" target="_blank">
+    <img src="https://img.shields.io/badge/-Excel-blue?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" width="150"/>
+  </a>
+</div>
 
 
 ## 🔗 **My Skills**
