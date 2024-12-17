@@ -1,10 +1,11 @@
 
+# 💻 Ahmed Hegazy | Data Analyst 🔍📊
+![Profile Banner](https://via.placeholder.com/800x200.png?text=Ahmed+Hegazy+-+Data+Analyst)
 
-#                           Ahmed Hegazy   Data AnalysT
-![Managed Attack Surface](csiq-what-is-managed-attack-surface.png)
-##  Cairo  |   (002) 01090446023   |   ahmed.a.hegazy21@gmail.com   |   [Linkedin](https://www.linkedin.com/in/hegazy-ahmed/)
-### About
-Data Analysis Process| Data Analysis | Analytical Thinking | Visualization | Storytelling
+### 👋 Welcome to my GitHub profile! 
+**Data Analysis Process| Data Analysis | Analytical Thinking | Visualization | Storytelling**
+
+
 Aspiring data analyst with a solid foundation in data analytics and hands-on experience in SQL Server, Excel, Power
 BI, Tableau, and Python, seeking an internship to apply my analytical skills. Known for effective decision-making
 and clear communication, I excel at presenting complex data and managing stakeholder relationships.
@@ -21,11 +22,10 @@ and clear communication, I excel at presenting complex data and managing stakeho
 - Business Intelligence: Power Query, Power Pivot, DAX and Data Modeling
 - Data-Driven Skills: Data Analysis, Problem Identification, Requirements Specification, Gap Recognition,
 Causation Understanding, Storytelling, Effective Presentation, Strategic Decision-Making.
-
+- Business Process Managment
 - Microsoft office (Word, PowerPoint, Outlook)
 
-  
-  
+  ##  Cairo  |   (002) 01090446023   |   ahmed.a.hegazy21@gmail.com   |   [Linkedin](https://www.linkedin.com/in/hegazy-ahmed/)
    
 #  Education and Certifications
 
@@ -33,13 +33,14 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
  | Cumulative Grade: Very Good
 - [ Google Data Analytics Professional Certificate (Coursera)
 ](https://www.coursera.org/account/accomplishments/professional-cert/4F6K7SEA4KV2)
-- [Business Analysis Foundations (Linkedin)](https://lnkd.in/dCBh69b6)
-- [Business Process Modeling (Linkedin)](https://lnkd.in/dNAX7VdQ)
-- [Statistics Foundations Using Data Sets (Linkedin)](https://lnkd.in/d4ev6gi3)
+- [Business Analysis Foundations ((IIBA®))](https://lnkd.in/dCBh69b6)
+- [Business Process Modeling (IIBA®)](https://lnkd.in/dNAX7VdQ)
+- [Statistics Foundations Using Data Sets (NASBA)](https://lnkd.in/d4ev6gi3)
 - [Data Visualization: Storytelling (Linkedin)](https://lnkd.in/dDAy5S9V)
-- [Excel Business Intelligence: Power Pivot, DAX and Data Modeling(Linkedin)](https://lnkd.in/d-Yj4GGS)
+- [Learning Data Analytics(NASBA)](https://lnkd.in/dAznWBhG)
+- [Excel Business Intelligence: Power Pivot, DAX and Data Modeling(PMI)](https://lnkd.in/d-Yj4GGS)
 - [Data-Driven Decision-Making for Business Professionals (Linkedin)](https://www.linkedin.com/learning/certificates/722ba318fed91754e53824198cf2f8790f84ac632f565ffa99d8d29014e80dc8?trk=share_certificate)
-- [Data-Driven Decision-Making for the Real World course(Linkedin)](https://lnkd.in/d3f_ADbk)
+- [Data-Driven Decision-Making for the Real World course(NASBA)](https://lnkd.in/d3f_ADbk)
 - [Implementing a Data Warehouse with SQL Server 2022(Linkedin)](https://www.linkedin.com/learning/certificates/9d2970ec32dacd88ff413c6605c99bb344d13c9cd249cf38fa6d0f10aacf6e25?trk=share_certificate)
 - [Introduction to Data Analytics (Coursera)](https://www.credly.com/badges/2c1bb510-081a-4dd4-a1d7-9267ab41572c/public_url)
 - [Tableau Ultimate Course Zero to Hero(YouTube)](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZJqrKcUUCWCWPYCrlcVm9v)
