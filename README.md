@@ -35,9 +35,6 @@ Causation Understanding, Storytelling, Effective Presentation, Strategic Decisio
 - Business Process Managment
 - Microsoft office (Word, PowerPoint, Outlook)
   ```text
-
-
-   
 #  Education and Certifications
 
 Nile Higher Institute Bachelor of Management Information 2016–2019
@@ -70,6 +67,9 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 [![Excel](https://img.shields.io/badge/-Excel-blue?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 
+## 🎯 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
  
 
