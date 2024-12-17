@@ -1,6 +1,6 @@
 
 # 💻 Ahmed Hegazy | Data Analyst 🔍📊
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Ahmed+Hegazy+-+Data+Analyst)
+![Profile Banner](1730016732565.jpeg)
 
 ## 🖥️ **Contact Me**
 📧 Email: [ahmed.a.hegazy21@gmail.com ](mailto:ahmed.a.hegazy21@gmail.com)  
