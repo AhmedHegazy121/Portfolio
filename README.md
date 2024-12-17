@@ -13,13 +13,23 @@ communication skills, enabling me to present complex data in a clear and compreh
 
 ### Skills: 
 - Programming: Python, R, SQL
-- Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
-- Database Management: MySQL, PostgreSQL 
+- Data Visualization: Tableau, Power BI, Matplotlib, Seaborn, Google Analytics GA4, Microsoft Excel
+- Database Management: MySQL, PostgreSQL, SQL Server 
 - Statistical Analysis: Hypothesis Testing, Regression Analysis
-- Data Analysis
-   ,Google Big Query
-   ,Google Analytics G4
-   ,icrosoft office (Word, PowerPoint, Outlook)
+- Data Modeling: Relationships, Unions, Joins, Blending
+- Data Warehousing: SQL Server 2022, Column store Indexes, ETL Automation
+- Data Quality Management: Data Quality Services (DQS), Master Data Services (MDS)
+- Cloud Analytics: Azure Synapse Analytics , Google Big Query
+- Business Intelligence: Power Query, Power Pivot, DAX and Data Modeling
+- Data-Driven Skills: Data Analysis, Problem Identification, Requirements Specification, Gap Recognition,
+Causation Understanding, Storytelling, Effective Presentation, Strategic Decision-Making.
+
+- Microsoft office (Word, PowerPoint, Outlook)
+
+
+
+  
+   Microsoft office (Word, PowerPoint, Outlook)
    
 #  Education and Certifications
 
