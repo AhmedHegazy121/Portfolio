@@ -1,4 +1,21 @@
 
+
+# 💻 Ahmed Hegazy | Data Analyst 🔍📊
+![Profile Banner](1730016732565.jpeg)
+
+## 🖥️ **Contact Me**
+<table>
+  <tr>
+    <td>
+      📧 Email: [ahmed.a.hegazy21@gmail.com](mailto:ahmed.a.hegazy21@gmail.com)<br>
+      📞 Phone: [00201090446023](tel:00201090446023)<br>
+      💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/hegazy-ahmed/)
+    </td>
+    <td align="right">
+      <img src="https://github-readme-stats.ver
+
+
+
 # 💻 Ahmed Hegazy | Data Analyst 🔍📊
 ![Profile Banner](1730016732565.jpeg)
 
