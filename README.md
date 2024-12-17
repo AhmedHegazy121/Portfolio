@@ -2,6 +2,14 @@
 # 💻 Ahmed Hegazy | Data Analyst 🔍📊
 ![Profile Banner](https://via.placeholder.com/800x200.png?text=Ahmed+Hegazy+-+Data+Analyst)
 
+## 🖥️ **Contact Me**
+📧 Email: [ahmed.a.hegazy21@gmail.com ](mailto:ahmed.a.hegazy21@gmail.com)  
+📞 Phone: [00201090446023 ](tel:00201090446023)  
+💼 LinkedIn: [linkedin.com/in/ahmedhegazy]([https://linkedin.com/in/ahmedhegazy](https://www.linkedin.com/in/hegazy-ahmed/)  
+🌐 Portfolio: [AhmedHegazy.com](https://AhmedHegazy.com) <!-- Replace with your website link -->
+
+
+
 ### 👋 Welcome to my GitHub profile! 
 **Data Analysis Process| Data Analysis | Analytical Thinking | Visualization | Storytelling**
 
@@ -10,6 +18,9 @@ Aspiring data analyst with a solid foundation in data analytics and hands-on exp
 BI, Tableau, and Python, seeking an internship to apply my analytical skills. Known for effective decision-making
 and clear communication, I excel at presenting complex data and managing stakeholder relationships.
 
+When I'm not analyzing data, you'll find me pursuing my passions for **bodybuilding** , **boxing**  and **Reading**🏋️‍♂️🥊.
+
+```text`
 ### Skills: 
 - Programming: Python, R, SQL
 - Data Visualization: Tableau, Power BI, Matplotlib, Seaborn, Google Analytics GA4, Microsoft Excel
@@ -24,6 +35,7 @@ and clear communication, I excel at presenting complex data and managing stakeho
 Causation Understanding, Storytelling, Effective Presentation, Strategic Decision-Making.
 - Business Process Managment
 - Microsoft office (Word, PowerPoint, Outlook)
+  ```text
 
   ##  Cairo  |   (002) 01090446023   |   ahmed.a.hegazy21@gmail.com   |   [Linkedin](https://www.linkedin.com/in/hegazy-ahmed/)
    
