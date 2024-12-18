@@ -2,11 +2,24 @@
 
 ![Profile Banner](1730016732565.jpeg)
 
-| 🖥️ Contact Me                              | 🎯 GitHub Stats                                                                                     |
-| ------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| 📧 Email: [ahmed.a.hegazy21@gmail.com](mailto:ahmed.a.hegazy21@gmail.com) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical) |
-| 📞 Phone: [00201090446023](tel:00201090446023) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical) |
-| 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/hegazy-ahmed/) |                                                                                                     |
+<table style="width: 100%; border: 0; border-collapse: collapse;">
+  <tr>
+    <!-- GitHub Stats -->
+    <td style="width: 50%; vertical-align: top; padding-right: 10px;">
+      <h2>🎯 GitHub Stats</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" style="width: 100%;" />
+    </td>
+
+    <!-- Contact Me -->
+    <td style="width: 50%; vertical-align: top; padding-left: 10px;">
+      <h2>🖥️ Contact Me</h2>
+      <p>📧 Email: <a href="mailto:ahmed.a.hegazy21@gmail.com">ahmed.a.hegazy21@gmail.com</a></p>
+      <p>📞 Phone: <a href="tel:00201090446023">00201090446023</a></p>
+      <p>💼 LinkedIn: <a href="https://www.linkedin.com/in/hegazy-ahmed/">LinkedIn</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
