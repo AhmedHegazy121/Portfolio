@@ -1,29 +1,3 @@
-# 💻 Ahmed Hegazy | Data Analyst 🔍📊
-
-![Profile Banner](1730016732565.jpeg)
-
-<table style="width: 100%; border: 0; border-collapse: collapse;">
-  <tr>
-    <!-- Contact Me -->
-    <td style="width: 50%; vertical-align: top; padding: 10px;">
-      <h2>🖥️ Contact Me</h2>
-      <p>📧 Email: <a href="mailto:ahmed.a.hegazy21@gmail.com">ahmed.a.hegazy21@gmail.com</a></p>
-      <p>📞 Phone: <a href="tel:00201090446023">00201090446023</a></p>
-      <p>💼 LinkedIn: <a href="https://www.linkedin.com/in/hegazy-ahmed/">LinkedIn</a></p>
-    </td>
-
-    <!-- GitHub Stats -->
-    <td style="width: 50%; vertical-align: top; padding: 10px;">
-      <h2>🎯 GitHub Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%;" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" style="width: 100%;" />
-    </td>
-  </tr>
-</table>
-
----
-
-
 
 # 💻 Ahmed Hegazy | Data Analyst 🔍📊
 ![Profile Banner](1730016732565.jpeg)
@@ -44,7 +18,7 @@ BI, Tableau, and Python, seeking an internship to apply my analytical skills. Kn
 and clear communication, I excel at presenting complex data and managing stakeholder relationships.
 
 When I'm not analyzing data, you'll find me pursuing my passions for **bodybuilding** , **boxing**  and **Reading**🏋️‍♂️🥊.
-
+---
 ```text`
 ### Skills: 
 - Programming: Python, R, SQL
@@ -83,10 +57,10 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 - English course (Get Way level 9)
 - [Introduction to SQL (SKILLUP)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODExIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNTIxNDAyNF8xNzE1MzQxMzcxLnBuZyIsInVzZXJuYW1lIjoiQWhtZWQgRWxzYWVkIEhlZ2F6eSJ9&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4309%2FIntroduction-to-SQL%2Fcertificate%2Fdownload-skillup&%24web_only=true)
 
+---
 
 
-
-## 🔗 **[📚Featured Projects](#featured-projects)**
+### 🔗 **[📚Featured Projects](#featured-projects)**
 ### **Quick Links - Click for Projects**
 
 <div style="display: flex; gap: 15px;">
@@ -108,7 +82,18 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 </div>
 
 
-
+```text
+📦 SQL-Projects
+├── 📁 Data
+│   └── Raw and cleaned datasets
+├── 📁 Scripts
+│   ├── Queries.sql
+│   ├── DataCleaning.sql
+│   ├── ETL.sql
+├── 📁 Reports
+│   └── Insights and visualizations
+└── README.md
+```
 ### 🎯 **GitHub Stats**
 
 
