@@ -12,14 +12,14 @@
 ### 👋 Welcome to my GitHub profile! 
 **Data Analysis Process| Data Analysis | Analytical Thinking | Visualization | Storytelling**
 
-
 Aspiring data analyst with a solid foundation in data analytics and hands-on experience in SQL Server, Excel, Power
 BI, Tableau, and Python, seeking an internship to apply my analytical skills. Known for effective decision-making
 and clear communication, I excel at presenting complex data and managing stakeholder relationships.
-
 When I'm not analyzing data, you'll find me pursuing my passions for **bodybuilding** , **boxing**  and **Reading**🏋️‍♂️🥊.
+
+
 ---
-```text`
+
 ### Skills: 
 - Programming: Python, R, SQL
 - Data Visualization: Tableau, Power BI, Matplotlib, Seaborn, Google Analytics GA4, Microsoft Excel
@@ -34,9 +34,9 @@ When I'm not analyzing data, you'll find me pursuing my passions for **bodybuild
 Causation Understanding, Storytelling, Effective Presentation, Strategic Decision-Making.
 - Business Process Managment
 - Microsoft office (Word, PowerPoint, Outlook)
-  ```text
-#  Education and Certifications
 
+### Education and Certifications
+---
 Nile Higher Institute Bachelor of Management Information 2016–2019
  | Cumulative Grade: Very Good
 - [ Google Data Analytics Professional Certificate (Coursera)
@@ -80,6 +80,10 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
     <img src="https://img.shields.io/badge/-Excel-blue?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" width="150" height="40"/>
   </a>
 </div>
+
+
+
+
 
 
 ```text
