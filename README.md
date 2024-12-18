@@ -2,20 +2,14 @@
 
 ![Profile Banner](1730016732565.jpeg)
 
-| 🎯 GitHub Stats                                                                                     | 🖥️ Contact Me                              |
-| --------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical) | 📧 Email: [ahmed.a.hegazy21@gmail.com](mailto:ahmed.a.hegazy21@gmail.com) |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical) | 📞 Phone: [00201090446023](tel:00201090446023) |
-|                                                                                                     | 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/hegazy-ahmed/) |
+| 🖥️ Contact Me                              | 🎯 GitHub Stats                                                                                     |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| 📧 Email: [ahmed.a.hegazy21@gmail.com](mailto:ahmed.a.hegazy21@gmail.com) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical) |
+| 📞 Phone: [00201090446023](tel:00201090446023) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical) |
+| 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/hegazy-ahmed/) |                                                                                                     |
 
 ---
 
-### 👋 Welcome to my GitHub profile! 
-**Data Analysis Process | Data Analysis | Analytical Thinking | Visualization | Storytelling**
-
-Aspiring data analyst with a solid foundation in data analytics...
-
----
 
 
 
