@@ -1,26 +1,29 @@
-## 💻 Ahmed Hegazy | Data Analyst 🔍📊
+# 💻 Ahmed Hegazy | Data Analyst 🔍📊
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Ahmed+Hegazy+-+Data+Analyst) <!-- Replace with a custom banner image -->
+![Profile Banner](1730016732565.jpeg)
 
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  
+
   <!-- GitHub Stats -->
   <div style="width: 48%;">
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+    ### 🎯 **GitHub Stats**
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
   </div>
-  
+
   <!-- Contact Me -->
-  <div style="width: 48%; text-align: center; font-size: 16px;">
-    ## 📬 **Contact Me**
-    📧 Email: [ahmed.hegazy@example.com](mailto:ahmed.hegazy@example.com)  
-    📱 Phone: **+201234567890**  
-    💼 LinkedIn: [linkedin.com/in/ahmedhegazy](https://linkedin.com/in/ahmedhegazy)  
-    🌐 Portfolio: [AhmedHegazy.com](https://AhmedHegazy.com)
+  <div style="width: 48%; text-align: center;">
+    ## 🖥️ **Contact Me**
+    📧 Email: [ahmed.a.hegazy21@gmail.com ](mailto:ahmed.a.hegazy21@gmail.com)  
+    📞 Phone: [00201090446023 ](tel:00201090446023)  
+    💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/hegazy-ahmed/)
   </div>
 
+</div>
 
+---
 
 
 
