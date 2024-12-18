@@ -2,24 +2,18 @@
 
 ![Profile Banner](1730016732565.jpeg)
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+| 🎯 GitHub Stats                                                                                     | 🖥️ Contact Me                              |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical) | 📧 Email: [ahmed.a.hegazy21@gmail.com](mailto:ahmed.a.hegazy21@gmail.com) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical) | 📞 Phone: [00201090446023](tel:00201090446023) |
+|                                                                                                     | 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/hegazy-ahmed/) |
 
-  <!-- GitHub Stats -->
-  <div style="width: 48%;">
-    <h2>🎯 GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
-  </div>
+---
 
-  <!-- Contact Me -->
-  <div style="width: 48%;">
-    <h2>🖥️ Contact Me</h2>
-    <p>📧 Email: <a href="mailto:ahmed.a.hegazy21@gmail.com">ahmed.a.hegazy21@gmail.com</a></p>
-    <p>📞 Phone: <a href="tel:00201090446023">00201090446023</a></p>
-    <p>💼 LinkedIn: <a href="https://www.linkedin.com/in/hegazy-ahmed/">LinkedIn</a></p>
-  </div>
+### 👋 Welcome to my GitHub profile! 
+**Data Analysis Process | Data Analysis | Analytical Thinking | Visualization | Storytelling**
 
-</div>
+Aspiring data analyst with a solid foundation in data analytics...
 
 ---
 
