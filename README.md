@@ -41,6 +41,13 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
  | Cumulative Grade: Very Good
 - [ Google Data Analytics Professional Certificate (Coursera)
 ](https://www.coursera.org/account/accomplishments/professional-cert/4F6K7SEA4KV2)
+- [Advanced Power BI: DAX Language, Formulas, and Calculations](https://lnkd.in/dbFGbf4t)
+- [Level Up: SQL(LinkedIn)](https://lnkd.in/dzJeg4UP)
+- [Marketing Analytics: Decoding the Conversion Funnel for Revenue Growth(LinkeIn)]( https://lnkd.in/dMSyHfKh)
+- [e Marketing Analytics: Setting and Measuring KPIs(LinkedIn)](https://lnkd.in/dam5fVHR)
+- [Marketing Analytics Foundations(linkedIn)]( https://lnkd.in/dNsMP2e6)
+- [Learning Data Analytics Part 2: Extending and Applying Core Knowledge(NASBA)](https://lnkd.in/dfbFybe6 )
+- [Learning Data Analytics: 1 Foundations (NASBA)](https://lnkd.in/d4ev6gi3 )
 - [Business Analysis Foundations ((IIBA®))](https://lnkd.in/dCBh69b6)
 - [Business Process Modeling (IIBA®)](https://lnkd.in/dNAX7VdQ)
 - [Statistics Foundations Using Data Sets (NASBA)](https://lnkd.in/d4ev6gi3)
