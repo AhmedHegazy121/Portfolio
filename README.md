@@ -90,53 +90,27 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 
 ------
 
-<div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
-  <h3 style="margin: 0; color: #2c3e50; font-family: Arial, sans-serif;">Click below to view projects 👇</h3>
-  <div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
-    <a href="https://ahmedhegazy121.github.io/SQL-Projects/" target="_blank" style="text-decoration: none; transition: transform 0.2s;">
-      <div style="background: #007bff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.3s ease;">
-        <span style="color: white; font-family: Arial, sans-serif; font-weight: bold;">SQL Projects</span>
-        <span style="color: white;">→</span>
-      </div>
-    </a>
-    <!-- Repeat the same structure for other badges -->
-    <a href="https://ahmedhegazy121.github.io/Tableau-Projects/" target="_blank" style="text-decoration: none; transition: transform 0.2s;">
-      <div style="background: #007bff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.3s ease;">
-        <span style="color: white; font-family: Arial, sans-serif; font-weight: bold;">Tableau Projects</span>
-        <span style="color: white;">→</span>
-      </div>
-    </a>
-    <a href="https://ahmedhegazy121.github.io/Python-Projects/" target="_blank" style="text-decoration: none; transition: transform 0.2s;">
-      <div style="background: #007bff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.3s ease;">
-        <span style="color: white; font-family: Arial, sans-serif; font-weight: bold;">Python Projects</span>
-        <span style="color: white;">→</span>
-      </div>
-    </a>
-    <a href="https://ahmedhegazy121.github.io/PowerBI-Projects/" target="_blank" style="text-decoration: none; transition: transform 0.2s;">
-      <div style="background: #007bff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.3s ease;">
-        <span style="color: white; font-family: Arial, sans-serif; font-weight: bold;">Power BI Projects</span>
-        <span style="color: white;">→</span>
-      </div>
-    </a>
-    <a href="https://ahmedhegazy121.github.io/Excel-Projects/" target="_blank" style="text-decoration: none; transition: transform 0.2s;">
-      <div style="background: #007bff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.3s ease;">
-        <span style="color: white; font-family: Arial, sans-serif; font-weight: bold;">Excel Projects</span>
-        <span style="color: white;">→</span>
-      </div>
-    </a>
-  </div>
+<div style="display: flex; gap: 15px;">
+  <a href="https://ahmedhegazy121.github.io/SQL-Projects/" target="_blank">
+    <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" alt="SQL" width="150" height="40"/>
+  </a>
+  <a href="https://ahmedhegazy121.github.io/Tableau-Projects/" target="_blank">
+    <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" width="150" height="40"/>
+  </a>
+  <a href="https://ahmedhegazy121.github.io/Python-Projects/" target="_blank">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" width="150" height="40"/>
+  </a>
+  <a href="https://ahmedhegazy121.github.io/PowerBI-Projects/" target="_blank">
+    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI" width="150" height="40"/>
+  </a>
+  <a href="https://ahmedhegazy121.github.io/Excel-Projects/" target="_blank">
+    <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" alt="Excel" width="150" height="40"/>
+  </a>
 </div>
 
-<style>
-  a:hover div {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
-    background: #0056b3;
-  }
-  a:active div {
-    transform: translateY(0);
-  }
-</style>
+
+
+ 
 
 
 ```text
