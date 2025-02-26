@@ -88,9 +88,56 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
   </a>
 </div>
 
+------
 
 
+<div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
+  <h3 style="margin: 0; color: #2c3e50; font-family: Arial, sans-serif;">Click below to view projects 👇</h3>
+  <div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
+    <a href="https://ahmedhegazy121.github.io/SQL-Projects/" target="_blank" style="text-decoration: none; transition: transform 0.2s;">
+      <div style="background: #007bff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.3s ease;">
+        <span style="color: white; font-family: Arial, sans-serif; font-weight: bold;">SQL Projects</span>
+        <span style="color: white;">→</span>
+      </div>
+    </a>
+    <!-- Repeat the same structure for other badges -->
+    <a href="https://ahmedhegazy121.github.io/Tableau-Projects/" target="_blank" style="text-decoration: none; transition: transform 0.2s;">
+      <div style="background: #007bff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.3s ease;">
+        <span style="color: white; font-family: Arial, sans-serif; font-weight: bold;">Tableau Projects</span>
+        <span style="color: white;">→</span>
+      </div>
+    </a>
+    <a href="https://ahmedhegazy121.github.io/Python-Projects/" target="_blank" style="text-decoration: none; transition: transform 0.2s;">
+      <div style="background: #007bff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.3s ease;">
+        <span style="color: white; font-family: Arial, sans-serif; font-weight: bold;">Python Projects</span>
+        <span style="color: white;">→</span>
+      </div>
+    </a>
+    <a href="https://ahmedhegazy121.github.io/PowerBI-Projects/" target="_blank" style="text-decoration: none; transition: transform 0.2s;">
+      <div style="background: #007bff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.3s ease;">
+        <span style="color: white; font-family: Arial, sans-serif; font-weight: bold;">Power BI Projects</span>
+        <span style="color: white;">→</span>
+      </div>
+    </a>
+    <a href="https://ahmedhegazy121.github.io/Excel-Projects/" target="_blank" style="text-decoration: none; transition: transform 0.2s;">
+      <div style="background: #007bff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.3s ease;">
+        <span style="color: white; font-family: Arial, sans-serif; font-weight: bold;">Excel Projects</span>
+        <span style="color: white;">→</span>
+      </div>
+    </a>
+  </div>
+</div>
 
+<style>
+  a:hover div {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    background: #0056b3;
+  }
+  a:active div {
+    transform: translateY(0);
+  }
+</style>
 
 
 ```text
@@ -105,13 +152,8 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 │   └── Insights and visualizations
 └── README.md
 ```
-### 🎯 **GitHub Stats**
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
----
 
 
 
