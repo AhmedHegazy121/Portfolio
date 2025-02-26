@@ -2,7 +2,8 @@
   <img src="https://img.icons8.com/fluency/80/000000/laptop-coding.png" alt="Laptop Icon">
 </p>
 
-<h1 align="center">💻 Ahmed Hegazy</h1>
+<h1 align="center"> Ahmed Hegazy </h1>
+<h2 align="center">Data Analyst| Business Analyst | Marketing Analytics </h2>
 
 <p align="center">
   <img src="1730016732565.jpeg" alt="Profile Banner" width="80%">
