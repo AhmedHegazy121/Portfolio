@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://img.icons8.com/fluency/80/000000/laptop-coding.png" alt="Laptop Icon">
+</p>
 
-# 💻 Ahmed Hegazy | Data Analyst 🔍📊
+<h1 align="center">💻 Ahmed Hegazy</h1>
 ![Profile Banner](1730016732565.jpeg)
 ### 🌎 **Let's Connect!**
 
