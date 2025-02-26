@@ -2,38 +2,33 @@
 # 💻 Ahmed Hegazy | Data Analyst 🔍📊
 ![Profile Banner](1730016732565.jpeg)
 
-## 🖥️ **Contact Me**
-📧 Email: [ahmed.a.hegazy21@gmail.com ](mailto:ahmed.a.hegazy21@gmail.com)  
-📞 Phone: [00201090446023 ](tel:00201090446023)  
-💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/hegazy-ahmed/)  
+## 🌎 **Let's Connect!**
+
+📧 **Email:** [AhmedHegazy121@gmail.com](mailto:AhmedHegazy121@gmail.com)  
+💼 **LinkedIn:** [Ahmed Hegazy](https://www.linkedin.com/in/ahmedhegazy121)  
+📊 **Portfolio:** [My Data Projects](https://ahmedhegazy121.github.io)  
+🚀 **GitHub:** [AhmedHegazy121](https://github.com/AhmedHegazy121) 
 
 
 
 ### 👋 Welcome to my GitHub profile! 
 **Data Analysis Process| Data Analysis | Analytical Thinking | Visualization | Storytelling**
-
-Aspiring data analyst with a solid foundation in data analytics and hands-on experience in SQL Server, Excel, Power
-BI, Tableau, and Python, seeking an internship to apply my analytical skills. Known for effective decision-making
-and clear communication, I excel at presenting complex data and managing stakeholder relationships.
+Data Analyst with expertise in SQL, Python, and Business Intelligence tools, specializing in data analysis, business analytics, and marketing analytics. Skilled in leveraging data-driven insights to support strategic decision-making, optimize operations, and improve business performance. Adept at statistical analysis, regression modeling, and sales forecasting, with hands-on experience in visualization and storytelling to translate complex data into actionable insights.
 When I'm not analyzing data, you'll find me pursuing my passions for **bodybuilding** , **boxing**  and **Reading**🏋️‍♂️🥊.
 
 
 ---
 
 ### Skills: 
-- Programming: Python, R, SQL
-- Data Visualization: Tableau, Power BI, Matplotlib, Seaborn, Google Analytics GA4, Microsoft Excel
-- Database Management: MySQL, PostgreSQL, SQL Server 
-- Statistical Analysis: Hypothesis Testing, Regression Analysis
-- Data Modeling: Relationships, Unions, Joins, Blending
-- Data Warehousing: SQL Server 2022, Column store Indexes, ETL Automation
-- Data Quality Management: Data Quality Services (DQS), Master Data Services (MDS)
-- Cloud Analytics: Azure Synapse Analytics , Google Big Query
-- Business Intelligence: Power Query, Power Pivot, DAX and Data Modeling
-- Data-Driven Skills: Data Analysis, Problem Identification, Requirements Specification, Gap Recognition,
-Causation Understanding, Storytelling, Effective Presentation, Strategic Decision-Making.
-- Business Process Managment
-- Microsoft office (Word, PowerPoint, Outlook)
+•	Programming & Database Management: SQL (MySQL, PostgreSQL, SQL Server), Python, R
+•	Data Visualization: Tableau, Power BI, Matplotlib, Seaborn, Google Analytics GA4, Microsoft Excel
+•	Statistical Analysis: Hypothesis Testing, Regression Analysis, Sales Forecasting
+•	Business Intelligence: Power Query, Power Pivot, DAX, Data Modeling
+•	Data Warehousing & ETL: SQL Server 2022, Columnstore Indexes, ETL Automation
+•	Cloud Analytics: Azure Synapse Analytics, Google BigQuery
+•	Marketing Analytics: Conversion Funnel Analysis, KPI Measurement, Performance Metrics
+•	Soft Skills: Analytical Thinking, Problem Solving, Storytelling, Stakeholder Communication
+
 
 ### Education and Certifications
 ---
@@ -41,6 +36,9 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
  | Cumulative Grade: Very Good
 - [ Google Data Analytics Professional Certificate (Coursera)
 ](https://www.coursera.org/account/accomplishments/professional-cert/4F6K7SEA4KV2)
+- [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://lnkd.in/gnDRafMu)
+- [Excel: Sales Forecasting (LinkedIn)](https://www.linkedin.com/learning/certificates/690c39555554184dd62e55a961c066a1784d636a87e0fd24eadb5d622cafcddc)
+- [Excel: Market Research Strategies (2020) (LinkedIn)](https://lnkd.in/dKmmVUJG)
 - [Advanced Power BI: DAX Language, Formulas, and Calculations](https://lnkd.in/dbFGbf4t)
 - [Level Up: SQL(LinkedIn)](https://lnkd.in/dzJeg4UP)
 - [Marketing Analytics: Decoding the Conversion Funnel for Revenue Growth(LinkeIn)]( https://lnkd.in/dMSyHfKh)
