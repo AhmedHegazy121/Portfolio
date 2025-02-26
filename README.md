@@ -77,7 +77,8 @@ When I'm not analyzing data, you'll find me pursuing my passions for **🏋️�
 - **Analytical Thinking**  
 - **Problem Solving**  
 - **Storytelling & Communication**  
-----
+
+-------
 
 <h3 align="center">  🎓 Education & Certifications </h3>
 
