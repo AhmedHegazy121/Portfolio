@@ -49,13 +49,15 @@ When I'm not analyzing data, you'll find me pursuing my passions for **🏋️�
 
 ---
 
-## 🛠 **Skills & Expertise**
+
+
+### 🛠 **Skills & Expertise**
 
 <table>
   <tr>
     <td valign="top" width="50%">
-
-### 🔹 **Programming & Database Management**
+      
+### 💻 **Programming & Database Management**
 - **SQL** – MySQL, PostgreSQL, SQL Server  
 - **Python** – Data Manipulation & Analysis (Pandas, NumPy)  
 - **R** – Statistical Computing  
@@ -67,28 +69,29 @@ When I'm not analyzing data, you'll find me pursuing my passions for **🏋️�
 - 📊 **Google Analytics GA4**  
 - 📊 **Microsoft Excel** – Pivot Tables, Power Query  
 
-  </td>
-  <td valign="top" width="50%">
-
-### 📊 **Statistical Analysis & Business Intelligence**
-- Hypothesis Testing | Regression Analysis | Forecasting  
-- Power Query | Power Pivot | DAX | Data Modeling  
+    </td>
+    <td valign="top" width="50%">
+      
+### 📈 **Statistical Analysis & Business Intelligence**
+- 📉 Hypothesis Testing | Regression Analysis | Forecasting  
+- 🧮 Power Query | Power Pivot | DAX | Data Modeling  
 
 ### 🔹 **Data Warehousing & ETL**
-- **SQL Server 2022** – Columnstore Indexes  
-- **ETL Automation & Cloud Analytics** (Azure Synapse, Google BigQuery)  
+- 💾 **SQL Server 2022** – Columnstore Indexes  
+- ☁️ **ETL Automation & Cloud Analytics** (Azure Synapse, Google BigQuery)  
 
 ### 📢 **Marketing Analytics**
-- Conversion Funnel Analysis | KPI Measurement | Performance Metrics  
+- 📊 Conversion Funnel Analysis | KPI Measurement | Performance Metrics  
 
 ### 🤝 **Soft Skills**
-- **Analytical Thinking**  
-- **Problem Solving**  
-- **Storytelling & Communication**  
+- 🧠 **Analytical Thinking**  
+- 💡 **Problem Solving**  
+- 🎭 **Storytelling & Communication**  
 
-  </td>
+    </td>
   </tr>
 </table>
+
 --
 
 
