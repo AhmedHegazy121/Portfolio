@@ -13,15 +13,15 @@
 
 
 <p align="center">
-  <a href="mailto:AhmedHegazy121@gmail.com" target="_blank">
+  <a href="mailto:ahmed.hegazy21@gmail.com target="_blank">
     <img src="https://img.icons8.com/fluency/64/000000/gmail-new.png" alt="Email">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahmedhegazy121" target="_blank">
+  <a href="www.linkedin.com/in/hegazy-ahmed" target="_blank">
     <img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://ahmedhegazy121.github.io" target="_blank">
+  <a href="https://github.com/AhmedHegazy121/Portfolio" target="_blank">
     <img src="https://img.icons8.com/color/64/000000/domain.png" alt="Portfolio">
   </a>
   &nbsp;&nbsp;&nbsp;
