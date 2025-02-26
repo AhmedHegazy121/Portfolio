@@ -3,7 +3,12 @@
 </p>
 
 <h1 align="center">💻 Ahmed Hegazy</h1>
-![Profile Banner](1730016732565.jpeg)
+
+<p align="center">
+  <img src="1730016732565.jpeg" alt="Profile Banner" width="80%">
+</p>
+
+<h1 align="center">💻 Ahmed Hegazy</h1>
 ### 🌎 **Let's Connect!**
 
 <p align="center">
