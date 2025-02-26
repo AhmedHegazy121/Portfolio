@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <a href="mailto:ahmed.hegazy21@gmail.com target="_blank">
+  <a href="mailto:ahmed.a.hegazy21@gmail.com"target="_blank">
     <img src="https://img.icons8.com/fluency/64/000000/gmail-new.png" alt="Email">
   </a>
   &nbsp;&nbsp;&nbsp;
