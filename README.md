@@ -3,13 +3,14 @@
 ![Profile Banner](1730016732565.jpeg)
 
 ## 🌎 **Let's Connect!**
+<p align="center">
+  📧 <a href="mailto:AhmedHegazy121@gmail.com">Email</a> |
+  💼 <a href="https://www.linkedin.com/in/ahmedhegazy121">LinkedIn</a> |
+  📊 <a href="https://ahmedhegazy121.github.io">Portfolio</a> |
+  🚀 <a href="https://github.com/AhmedHegazy121">GitHub</a>
+</p>
 
-📧 **Email:** [AhmedHegazy121@gmail.com](mailto:AhmedHegazy121@gmail.com)  
-💼 **LinkedIn:** [Ahmed Hegazy](https://www.linkedin.com/in/ahmedhegazy121)  
-📊 **Portfolio:** [My Data Projects](https://ahmedhegazy121.github.io)  
-🚀 **GitHub:** [AhmedHegazy121](https://github.com/AhmedHegazy121) 
-
-
+----
 
 ## 🎯 **Welcome to My GitHub Profile!**
 
@@ -74,37 +75,28 @@ When I'm not analyzing data, you'll find me pursuing my passions for **🏋️�
 📊 **Microsoft & LinkedIn Career Essentials in Data Analysis**  
 [📌 View Credential](https://lnkd.in/gnDRafMu)  
 
-📈 **Advanced Power BI: DAX Language & Formulas**  
-[📌 View Credential](https://lnkd.in/dbFGbf4t)  
-
-📊 **Level Up: SQL (LinkedIn)**  
-[📌 View Credential](https://lnkd.in/dzJeg4UP)  
-
-📊 **Marketing Analytics: Conversion Funnel Analysis**  
-[📌 View Credential](https://lnkd.in/dMSyHfKh)  
-
-📊 **Data-Driven Decision-Making for Business Professionals**  
-[📌 View Credential](https://www.linkedin.com/learning/certificates/722ba318fed91754e53824198cf2f8790f84ac632f565ffa99d8d29014e80dc8)  
-
-📊 **Implementing a Data Warehouse with SQL Server 2022**  
-[📌 View Credential](https://www.linkedin.com/learning/certificates/9d2970ec32dacd88ff413c6605c99bb344d13c9cd249cf38fa6d0f10aacf6e25)  
-
-📊 **Excel: Sales Forecasting**  
-[📌 View Credential](https://www.linkedin.com/learning/certificates/690c39555554184dd62e55a961c066a1784d636a87e0fd24eadb5d622cafcddc)  
-
-📊 **Tableau Ultimate Course Zero to Hero (YouTube)**  
-[📌 View Course](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZJqrKcUUCWCWPYCrlcVm9v)  
-
-📊 **Data Analytics Bootcamp Certificate (YouTube)**  
-[📌 View Course](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)  
-
-📊 **Introduction to SQL (SKILLUP)**  
-[📌 View Credential](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODExIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNTIxNDAyNF8xNzE1MzQxMzcxLnBuZyIsInVzZXJuYW1lIjoiQWhtZWQgRWxzYWVkIEhlZ2F6eSJ9&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4309%2FIntroduction-to-SQL%2Fcertificate%2Fdownload-skillup&%24web_only=true)  
-
-📊 **Excel Business Intelligence: Power Pivot, DAX & Data Modeling**  
-[📌 View Credential](https://lnkd.in/d-Yj4GGS)  
-
----
+✅ [Excel: Sales Forecasting (LinkedIn)](https://www.linkedin.com/learning/certificates/690c39555554184dd62e55a961c066a1784d636a87e0fd24eadb5d622cafcddc)  
+✅ [Excel: Market Research Strategies (LinkedIn)](https://lnkd.in/dKmmVUJG)  
+✅ [Advanced Power BI: DAX Language, Formulas & Calculations](https://lnkd.in/dbFGbf4t)  
+✅ [Level Up: SQL (LinkedIn)](https://lnkd.in/dzJeg4UP)  
+✅ [Marketing Analytics: Decoding the Conversion Funnel](https://lnkd.in/dMSyHfKh)  
+✅ [Marketing Analytics: Setting & Measuring KPIs](https://lnkd.in/dam5fVHR)  
+✅ [Marketing Analytics Foundations](https://lnkd.in/dNsMP2e6)  
+✅ [Learning Data Analytics Part 2: Extending Core Knowledge](https://lnkd.in/dfbFybe6)  
+✅ [Learning Data Analytics: Foundations](https://lnkd.in/d4ev6gi3)  
+✅ [Business Analysis Foundations (IIBA)](https://lnkd.in/dCBh69b6)  
+✅ [Business Process Modeling (IIBA)](https://lnkd.in/dNAX7VdQ)  
+✅ [Statistics Foundations Using Data Sets](https://lnkd.in/d4ev6gi3)  
+✅ [Data Visualization: Storytelling](https://lnkd.in/dDAy5S9V)  
+✅ [Learning Data Analytics](https://lnkd.in/dAznWBhG)  
+✅ [Excel BI: Power Pivot, DAX & Data Modeling](https://lnkd.in/d-Yj4GGS)  
+✅ [Data-Driven Decision-Making for Business Professionals](https://www.linkedin.com/learning/certificates/722ba318fed91754e53824198cf2f8790f84ac632f565ffa99d8d29014e80dc8)  
+✅ [Data-Driven Decision-Making for the Real World](https://lnkd.in/d3f_ADbk)  
+✅ [Implementing a Data Warehouse with SQL Server 2022](https://www.linkedin.com/learning/certificates/9d2970ec32dacd88ff413c6605c99bb344d13c9cd249cf38fa6d0f10aacf6e25)  
+✅ [Introduction to Data Analytics (Coursera)](https://www.credly.com/badges/2c1bb510-081a-4dd4-a1d7-9267ab41572c/public_url)  
+✅ [Tableau Ultimate Course: Zero to Hero (YouTube)](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZJqrKcUUCWCWPYCrlcVm9v)  
+✅ [Data Analytics Bootcamp (YouTube)](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)  
+✅ [Introduction to SQL (Skillup)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODExIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNTIxNDAyNF8xNzE1MzQxMzcxLnBuZyIsInVzZXJuYW1lIjoiQWhtZWQgRWxzYWVkIEhlZ2F6eSJ9&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4309%2FIntroduction-to-SQL%2Fcertificate%2Fdownload-skillup&%24web_only=true)  
 
 ---
 
