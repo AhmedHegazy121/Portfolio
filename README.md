@@ -9,7 +9,6 @@
   <img src="1730016732565.jpeg" alt="Profile Banner" width="80%">
 </p>
 
-### 🌎 **Let's Connect!**
 
 <p align="center">
   <a href="mailto:AhmedHegazy121@gmail.com" target="_blank">
@@ -31,7 +30,6 @@
 
 ----
 
-## 🎯 **Welcome to My GitHub Profile!**
 
 <p align="center">
   <b>🔹 Data Analysis | Business Analytics | Visualization | Storytelling 🔹</b>
@@ -48,7 +46,7 @@ When I'm not analyzing data, you'll find me pursuing my passions for **🏋️�
 
 ---
 
-<h1 align="center"> 🛠 **Skills & Expertise </h1>
+<h3 align="center"> 🛠 Skills & Expertise </h3>
 
 ### 🔹 **Programming & Database Management**
 - **SQL** – MySQL, PostgreSQL, SQL Server  
@@ -77,10 +75,10 @@ When I'm not analyzing data, you'll find me pursuing my passions for **🏋️�
 - **Analytical Thinking**  
 - **Problem Solving**  
 - **Storytelling & Communication**  
---
+----
 
+<h3 align="center">  🎓 Education & Certifications </h3>
 
-## 🎓 **Education & Certifications**
 
 🎓 **Nile Higher Institute** – *Bachelor of Management Information (2016–2019)*  
 📜 **Cumulative Grade: Very Good**  
@@ -118,8 +116,7 @@ When I'm not analyzing data, you'll find me pursuing my passions for **🏋️�
 
 ---
 
-
-### 🔗 **[📚Click below to view projects 👇](#featured-projects)**
+<h3 align="center">  📚Click below to view projects 👇 </h3>
 
 <div style="display: flex; gap: 15px;">
   <a href="https://ahmedhegazy121.github.io/SQL-Projects/" target="_blank">
