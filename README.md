@@ -48,10 +48,9 @@ When I'm not analyzing data, you'll find me pursuing my passions for **🏋️�
 
 ---
 
+<h1 align="center"> 🛠 **Skills & Expertise </h1>
 
-
-### 🛠 **Skills & Expertise**
-<h1 align="center"> Programming & Database Management </h1>
+### 🔹 **Programming & Database Management**
 - **SQL** – MySQL, PostgreSQL, SQL Server  
 - **Python** – Data Manipulation & Analysis (Pandas, NumPy)  
 - **R** – Statistical Computing  
