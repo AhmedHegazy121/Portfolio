@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> Ahmed Hegazy </h1>
-<h2 align="center">Data Analyst| Business Analyst | Marketing Analytics </h2>
+<h3 align="center">Data Analyst| Business Analyst | Marketing Analytics </h3>
 
 <p align="center">
   <img src="1730016732565.jpeg" alt="Profile Banner" width="80%">
@@ -51,6 +51,10 @@ When I'm not analyzing data, you'll find me pursuing my passions for **🏋️�
 
 ## 🛠 **Skills & Expertise**
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 ### 🔹 **Programming & Database Management**
 - **SQL** – MySQL, PostgreSQL, SQL Server  
 - **Python** – Data Manipulation & Analysis (Pandas, NumPy)  
@@ -62,6 +66,9 @@ When I'm not analyzing data, you'll find me pursuing my passions for **🏋️�
 - 📊 **Matplotlib, Seaborn** – Python Data Visualization  
 - 📊 **Google Analytics GA4**  
 - 📊 **Microsoft Excel** – Pivot Tables, Power Query  
+
+  </td>
+  <td valign="top" width="50%">
 
 ### 📊 **Statistical Analysis & Business Intelligence**
 - Hypothesis Testing | Regression Analysis | Forecasting  
@@ -79,7 +86,10 @@ When I'm not analyzing data, you'll find me pursuing my passions for **🏋️�
 - **Problem Solving**  
 - **Storytelling & Communication**  
 
----
+  </td>
+  </tr>
+</table>
+--
 
 
 ## 🎓 **Education & Certifications**
