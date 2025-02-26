@@ -90,7 +90,6 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 
 ------
 
-
 <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
   <h3 style="margin: 0; color: #2c3e50; font-family: Arial, sans-serif;">Click below to view projects 👇</h3>
   <div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
