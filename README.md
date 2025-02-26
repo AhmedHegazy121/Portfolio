@@ -67,28 +67,7 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
 ---
 
 
-### 🔗 **[📚Featured Projects](#featured-projects)**
-### **Quick Links - Click for Projects**
-
-<div style="display: flex; gap: 15px;">
-  <a href="https://ahmedhegazy121.github.io/SQL-Projects/" target="_blank">
-    <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" width="150" height="40"/>
-  </a>
-  <a href="https://ahmedhegazy121.github.io/Tableau-Projects/" target="_blank">
-    <img src="https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" width="150" height="40"/>
-  </a>
-  <a href="https://ahmedhegazy121.github.io/Python-Projects/" target="_blank">
-    <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="150" height="40"/>
-  </a>
-  <a href="https://ahmedhegazy121.github.io/PowerBI-Projects/" target="_blank">
-    <img src="https://img.shields.io/badge/-Power%20BI-blue?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" width="150" height="40"/>
-  </a>
-  <a href="https://ahmedhegazy121.github.io/Excel-Projects/" target="_blank">
-    <img src="https://img.shields.io/badge/-Excel-blue?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" width="150" height="40"/>
-  </a>
-</div>
-
-------
+### 🔗 **[📚Click below to view projects 👇](#featured-projects)**
 
 <div style="display: flex; gap: 15px;">
   <a href="https://ahmedhegazy121.github.io/SQL-Projects/" target="_blank">
@@ -108,52 +87,7 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
   </a>
 </div>
 
----
-
-<style>
-  .button-container {
-    display: flex;
-    gap: 15px;
-  }
-  
-  .custom-button {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-decoration: none;
-    font-weight: bold;
-    font-size: 16px;
-    width: 160px;
-    height: 45px;
-    border-radius: 8px;
-    color: white;
-    transition: transform 0.2s, box-shadow 0.2s;
-  }
-
-  .custom-button:hover {
-    transform: scale(1.05);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-  }
-
-  .sql { background-color: #CC2927; }
-  .tableau { background-color: #E97627; }
-  .python { background-color: #3776AB; }
-  .powerbi { background-color: #F2C811; color: black; }
-  .excel { background-color: #217346; }
-
-</style>
-
-<div class="button-container">
-  <a href="https://ahmedhegazy121.github.io/SQL-Projects/" class="custom-button sql" target="_blank">SQL Projects</a>
-  <a href="https://ahmedhegazy121.github.io/Tableau-Projects/" class="custom-button tableau" target="_blank">Tableau Projects</a>
-  <a href="https://ahmedhegazy121.github.io/Python-Projects/" class="custom-button python" target="_blank">Python Projects</a>
-  <a href="https://ahmedhegazy121.github.io/PowerBI-Projects/" class="custom-button powerbi" target="_blank">Power BI Projects</a>
-  <a href="https://ahmedhegazy121.github.io/Excel-Projects/" class="custom-button excel" target="_blank">Excel Projects</a>
-</div>
-
-
- 
-
+-------
 
 ```text
 📦 SQL-Projects
