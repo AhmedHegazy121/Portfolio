@@ -13,11 +13,11 @@
 
 
 <p align="center">
-  <a href="mailto:ahmed.a.hegazy21@gmail.com"target="_blank">
+  <a href="mailto:ahmed.a.hegazy12@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/64/000000/gmail-new.png" alt="Email">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/hegazy-ahmed" target="_blank">
+  <a href="https://www.linkedin.com/in/hegazy-ahmed" target="_blank">
     <img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -29,6 +29,7 @@
     <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" alt="GitHub">
   </a>
 </p>
+
 
 ----
 
