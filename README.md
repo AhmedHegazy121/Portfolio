@@ -1,13 +1,24 @@
 
 # 💻 Ahmed Hegazy | Data Analyst 🔍📊
 ![Profile Banner](1730016732565.jpeg)
+### 🌎 **Let's Connect!**
 
-## 🌎 **Let's Connect!**
 <p align="center">
-  📧 <a href="mailto:AhmedHegazy121@gmail.com">Email</a> |
-  💼 <a href="https://www.linkedin.com/in/ahmedhegazy121">LinkedIn</a> |
-  📊 <a href="https://ahmedhegazy121.github.io">Portfolio</a> |
-  🚀 <a href="https://github.com/AhmedHegazy121">GitHub</a>
+  <a href="mailto:AhmedHegazy121@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/64/000000/gmail-new.png" alt="Email">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahmedhegazy121" target="_blank">
+    <img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://ahmedhegazy121.github.io" target="_blank">
+    <img src="https://img.icons8.com/color/64/000000/domain.png" alt="Portfolio">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AhmedHegazy121" target="_blank">
+    <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" alt="GitHub">
+  </a>
 </p>
 
 ----
