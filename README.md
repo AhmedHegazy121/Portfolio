@@ -108,6 +108,48 @@ Nile Higher Institute Bachelor of Management Information 2016–2019
   </a>
 </div>
 
+---
+
+<style>
+  .button-container {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .custom-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    width: 160px;
+    height: 45px;
+    border-radius: 8px;
+    color: white;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+
+  .custom-button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .sql { background-color: #CC2927; }
+  .tableau { background-color: #E97627; }
+  .python { background-color: #3776AB; }
+  .powerbi { background-color: #F2C811; color: black; }
+  .excel { background-color: #217346; }
+
+</style>
+
+<div class="button-container">
+  <a href="https://ahmedhegazy121.github.io/SQL-Projects/" class="custom-button sql" target="_blank">SQL Projects</a>
+  <a href="https://ahmedhegazy121.github.io/Tableau-Projects/" class="custom-button tableau" target="_blank">Tableau Projects</a>
+  <a href="https://ahmedhegazy121.github.io/Python-Projects/" class="custom-button python" target="_blank">Python Projects</a>
+  <a href="https://ahmedhegazy121.github.io/PowerBI-Projects/" class="custom-button powerbi" target="_blank">Power BI Projects</a>
+  <a href="https://ahmedhegazy121.github.io/Excel-Projects/" class="custom-button excel" target="_blank">Excel Projects</a>
+</div>
 
 
  
