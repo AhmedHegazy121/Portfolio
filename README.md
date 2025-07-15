@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> Ahmed Hegazy </h1>
-<h3 align="center">Data Analyst| Business Analyst | Marketing Analytics </h3>
+<h3 align="center">Data Analyst| Business Analyst | Healthcare Analyst </h3>
 
 <p align="center">
   <img src="1730016732565.jpeg" alt="Profile Banner" width="80%">
@@ -88,6 +88,8 @@ When I'm not analyzing data, you'll find me pursuing my passions for **🏋️�
 📜 **Cumulative Grade: Very Good**  
 
 ### 🏅 **Professional Certifications**
+🚀 **Health Information Literacy for Data Analytics**  
+[📌 View Credential](https://www.coursera.org/account/accomplishments/specialization/I34M9UQW7IE4)  
 
 🚀 **Google Data Analytics Professional Certificate**  
 [📌 View Credential](https://www.coursera.org/account/accomplishments/professional-cert/4F6K7SEA4KV2)  
@@ -123,6 +125,10 @@ When I'm not analyzing data, you'll find me pursuing my passions for **🏋️�
 <h3 align="center">  📚Click below to view projects 👇 </h3>
 
 <div style="display: flex; gap: 15px;">
+  <a href="https://ahmedhegazy121.github.io/Healthcare_projects/" target="_blank">
+  <img src="https://img.shields.io/badge/🏥%20Healthcare%20Project-28a745?style=for-the-badge&logo=mediatemple&logoColor=white" alt="Healthcare Badge" width="220" height="40"/>
+</a>
+  </a>
   <a href="https://ahmedhegazy121.github.io/SQL-Projects/" target="_blank">
     <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" alt="SQL" width="150" height="40"/>
   </a>
