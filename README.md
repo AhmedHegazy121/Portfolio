@@ -127,7 +127,6 @@ When I'm not analyzing data, you'll find me pursuing my passions for **🏋️�
 <div style="display: flex; gap: 15px;">
   <a href="https://ahmedhegazy121.github.io/Healthcare_projects/" target="_blank">
   <img src="https://img.shields.io/badge/🏥%20Healthcare%20Project-800080?style=for-the-badge&logo=mediatemple&logoColor=white" alt="Healthcare Badge" width="220" height="40"/>
-</a>
   </a>
   <a href="https://ahmedhegazy121.github.io/SQL-Projects/" target="_blank">
     <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" alt="SQL" width="150" height="40"/>
